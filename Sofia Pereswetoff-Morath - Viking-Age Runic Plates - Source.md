@@ -11,17 +11,14 @@ tags: ["runes/source", "sofia-pereswetoff-morath"]
 
 **Sofia Pereswetoff-Morath, 2019.** *Viking-Age Runic Plates: Readings and Interpretations.* Translated from Swedish by Mindy MacLeod. Runrön 21 / Acta Academiae Regiae Gustavi Adolphi 155.
 
-[Open the source PDF](Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf)
-
 ## What this book is about
 
 Sofia works through 46 Viking-Age metal plates with runes. Some can be read fairly well; others are damaged, unusual, or still a puzzle. Along the way she compares ordinary rune forms with bind-runes, staveless runes, balanced forms, and other odd-looking signs.
 
 There is one note here for every plate in her catalogue. 21 of the 46 are marked as interpreted in Appendix 1.
 
-## Start here
 
-- [[00 - Runic Plates Index]]
+- [[Index]]
 - [[Database fields and queries]]
 - [[Concepts/Runic plates]]
 - [[Concepts/Reading and interpretation]]

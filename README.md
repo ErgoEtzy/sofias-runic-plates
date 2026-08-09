@@ -22,5 +22,4 @@ To use the page links locally, place a legally obtained copy named `Sofia_Peresw
 
 ## Obsidian
 
-Open this folder as a vault, or place it inside an existing vault. The notes work without plugins. The optional queries in [Database fields and queries.md](<Database fields and queries.md>) use Dataview.
-
+Open this folder as a vault, or place it inside an existing vault. The notes work without plugins. 

@@ -16,4 +16,4 @@ Coordinate runes work like an address. One number gives the futhark family (*æt
 
 ## Where Sofia discusses this
 
-[Book p. 57](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=59) / [book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>)
+[Book p. 57](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=59) / [book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

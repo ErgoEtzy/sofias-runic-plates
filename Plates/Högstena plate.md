@@ -59,4 +59,4 @@ The main discussion starts in section 4.3, on printed page 179: [open that page]
 
 References Sofia lists: Jungner 1936; Nordén 1943:175–177; Strid 1994; Svärdström 1967; Svärdström in VgR, Vg 216
 
-Back to [the book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>).
+Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).

@@ -16,4 +16,4 @@ Sofia sorts the plates into a few practical groups: **A** has a hole and could b
 
 ## Where Sofia discusses this
 
-[Book p. 30](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=32) / [book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>)
+[Book p. 30](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=32) / [book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

@@ -16,4 +16,4 @@ Sofia keeps these two steps separate. A *reading* identifies the rune shapes and
 
 ## Where Sofia discusses this
 
-[Book p. 31](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=33) / [book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>)
+[Book p. 31](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=33) / [book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

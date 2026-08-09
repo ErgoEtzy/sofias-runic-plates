@@ -8,7 +8,7 @@ tags: ["runes/index", "sofia-pereswetoff-morath"]
 
 One note for each of the 46 plates in Sofia Pereswetoff-Morath's catalogue. The numbering is kept so it is easy to move between these notes and the book.
 
-[About the book](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>) / [[Concepts/Runic plates|Rune notes]] / [[plates.csv|CSV]]
+[About the book](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>) / [[plates.csv|CSV]]
 
 ## All the plates
 

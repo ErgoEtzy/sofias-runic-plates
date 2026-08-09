@@ -16,4 +16,4 @@ Staveless runes are simplified forms, though the name is a bit misleading: many 
 
 ## Where Sofia discusses this
 
-[Book p. 53](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=55) / [book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>)
+[Book p. 53](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=55) / [book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

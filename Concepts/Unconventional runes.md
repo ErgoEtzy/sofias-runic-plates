@@ -16,4 +16,4 @@ This is Sofia's broad label for secret runes, unusual shapes, and rune-like sign
 
 ## Where Sofia discusses this
 
-[Book p. 292](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=294) / [book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>)
+[Book p. 292](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=294) / [book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

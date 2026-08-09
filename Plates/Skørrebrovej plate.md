@@ -59,4 +59,4 @@ The main discussion starts in section 6.2.1, on printed page 254: [open that pag
 
 References Sofia lists: Lisbeth Imer in DK (see under internet sources)
 
-Back to [the book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>).
+Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).

@@ -16,4 +16,4 @@ These are often called mirror runes, but Sofia prefers *balanced runes*. She arg
 
 ## Where Sofia discusses this
 
-[Book p. 58](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=60) / [book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>)
+[Book p. 58](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=60) / [book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

@@ -59,4 +59,4 @@ The main discussion starts in section 5.3.2, on printed page 243: [open that pag
 
 References Sofia lists: Karlenby 1985
 
-Back to [the book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>).
+Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).

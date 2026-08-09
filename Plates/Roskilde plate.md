@@ -59,4 +59,4 @@ The main discussion starts in section 6.1.2, on printed page 249: [open that pag
 
 References Sofia lists: Jacobsen & Moltke in DRI, DR 246; Lindquist 1932:66 f., fn.1; Steenholt Olesen 2007:94–98; Stephens 1867–68:864
 
-Back to [the book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>).
+Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).

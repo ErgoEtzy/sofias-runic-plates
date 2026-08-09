@@ -59,4 +59,4 @@ The main discussion starts in section 5.2.5, on printed page 237: [open that pag
 
 References Sofia lists: Gustavson (Sl 118); Gustavson & Källström 2016:14–16
 
-Back to [the book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>).
+Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).

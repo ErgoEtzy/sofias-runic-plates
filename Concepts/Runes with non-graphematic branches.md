@@ -16,4 +16,4 @@ Some rune shapes have extra branches that do not change the sound. They may hide
 
 ## Where Sofia discusses this
 
-[Book p. 55](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=57) / [book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>)
+[Book p. 55](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=57) / [book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

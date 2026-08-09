@@ -8,7 +8,6 @@ Start with [Index](<Index.md>).
 
 - one Markdown note per plate;
 - short notes on rune forms and terminology;
-- YAML properties for searching and sorting;
 - a CSV export of the structured fields; and
 - page references back to the book.
 

@@ -59,4 +59,4 @@ The main discussion starts in section 4.7, on printed page 204: [open that page]
 
 References Sofia lists: Nordén 1943:183–186
 
-Back to [the book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>).
+Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).

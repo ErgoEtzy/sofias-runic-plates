@@ -16,4 +16,4 @@ A bind-rune squeezes two or more runes into one sign. Sometimes this is just a c
 
 ## Where Sofia discusses this
 
-[Book p. 54](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=56) / [book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates - Source.md>)
+[Book p. 54](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=56) / [book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

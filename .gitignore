@@ -1,0 +1,16 @@
+# The source book is copyrighted and stays local.
+*.pdf
+
+# Obsidian keeps machine- and session-specific state here.
+.obsidian/
+.trash/
+
+# Operating-system clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*~

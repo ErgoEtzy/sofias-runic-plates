@@ -18,7 +18,7 @@ The book covers 46 Viking-Age metal plates with runes. Some can be read fairly w
 The collection includes all 46 plates in the catalogue and 24 notes on the book's terminology, methods, and main interpretive themes. Appendix 1 marks 21 inscriptions as interpreted.
 
 - [[Index|Plate index]]
-- [[Concepts/Index|Concept index]]
+- [[01 Index|Concept index]]
 - [[Concepts/Runic plates]]
 - [[Concepts/Reading and interpretation]]
 - [[Concepts/Magic and function]]

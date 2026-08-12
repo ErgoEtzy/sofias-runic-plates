@@ -63,6 +63,6 @@ The complete catalogue is represented here: all 46 plates, plus 24 notes coverin
 
 ## Concepts
 
-[[Concepts/Index|Browse all 24 concept notes]]
+[[01 Index|Browse all 24 concept notes]]
 
 The concept guide covers the corpus, plate types, runological method, transliteration, reading order, dating, conventional and unconventional rune forms, cryptic systems, archaeological context, spells, and the relation between writing and magic.

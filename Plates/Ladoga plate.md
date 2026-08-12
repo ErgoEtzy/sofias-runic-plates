@@ -9,7 +9,7 @@ alternative_signatures: ""
 country: "Russia"
 corpus_region: "Outside Scandinavia"
 place_of_find: "Varangian Street, Staraja Ladoga, Russia"
-dating: "800–950 (eV), archaeological and runological dating"
+dating: "800-950 (eV), archaeological and runological dating"
 year_found: 1975
 find_context: "domestic (urban)"
 plate_type: "A (+bronze attachment)"
@@ -24,7 +24,7 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Ladoga plate
 
-Ladoga plate is a copper plate found at Varangian Street, Staraja Ladoga, Russia. It is listed as type A (+bronze attachment). Archaeological and runological evidence dates it to 800–950 (eV).
+Ladoga plate is a copper plate found at Varangian Street, Staraja Ladoga, Russia. It is listed as type A (+bronze attachment). Archaeological and runological evidence dates it to 800-950 (eV).
 
 The book includes an interpretation of the inscription.
 
@@ -32,10 +32,10 @@ The book includes an interpretation of the inscription.
 
 - **Catalogue no.:** 12
 - **SRD:** RU Melnikova2001;196
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1975, Varangian Street, Staraja Ladoga, Russia
 - **Context:** domestic (urban)
-- **Object:** type A (+bronze attachment); copper; 48 mm long, 14.2–18 mm wide, 0.5 mm thick
+- **Object:** type A (+bronze attachment); copper; 48 mm long, 14.2-18 mm wide, 0.5 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ The book includes an interpretation of the inscription.
 
 ## In the book
 
-- [Main discussion — section 7.2.2, p. 272](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=274)
-- [Catalogue entry — p. 353](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=355)
-- **References listed:** Kuz´menko 1997b; Mel´nikova 1994:231 f., 2001:189–200; Petrenko & Kuz´menko 1979:78–84
+- [Main discussion: section 7.2.2, p. 272](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=274)
+- [Catalogue entry: p. 353](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=355)
+- **References listed:** Kuz´menko 1997b; Mel´nikova 1994:231 f., 2001:189-200; Petrenko & Kuz´menko 1979:78-84
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

@@ -22,7 +22,12 @@ A graphematic feature helps distinguish one written sign from another. A non-gra
 
 [[Unconventional runes]] / [[Cryptic runes]] / [[Rune-like markings]]
 
+## Examples
+
+- [[Plates/Kvinneby plate|Kvinneby plate]]. Extra branches are central to the book's reading of the opening signs.
+- [Kvinneby amulet: deciphering attempts](https://en.wikipedia.org/wiki/Kvinneby_amulet#Deciphering_attempts). Compares bind-rune, elaborate-rune, and added-stave readings.
+
 ## Further reading
 
-- [Wikipedia: Runes](https://en.wikipedia.org/wiki/Runes)
+- [Wikipedia: Variation in early rune forms](https://en.wikipedia.org/wiki/Runes#Early_inscriptions)
 - [Swedish National Heritage Board: Runic terms and transliteration](https://www.raa.se/hitta-information/runor/begrepp-och-principer-for-translitterering/)

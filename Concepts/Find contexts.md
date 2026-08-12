@@ -22,7 +22,12 @@ In archaeology, context means the place, layer, structure, and associated finds 
 
 [[Dating runic inscriptions]] / [[Amulets and magical objects]] / [[Spell types and formulas]]
 
+## Examples
+
+- [Kylver Stone: grave context](https://en.wikipedia.org/wiki/Kylver_Stone#Description). A reused slab found sealing a grave.
+- [Ribe skull fragment: marketplace context](https://en.wikipedia.org/wiki/Ribe_skull_fragment#Description). A healing inscription found in an excavation layer.
+
 ## Further reading
 
-- [Wikipedia: Archaeological context](https://en.wikipedia.org/wiki/Archaeological_context)
+- [Wikipedia: Types of runic objects](https://en.wikipedia.org/wiki/Runic_inscriptions#Types_of_inscribed_objects)
 - [Swedish National Heritage Board: About Runor](https://www.raa.se/in-english/digital-services/about-runor/)

@@ -32,7 +32,7 @@ The book includes an interpretation of the inscription.
 
 - **Catalogue no.:** 31
 - **SRD:** U AST1;150
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1939, Ulvsunda, Uppland
 - **Context:** grave (pre-Christian, female’s?)
 - **Object:** type B; bronze; 16.5 mm long, 9.5 mm wide, 0.3 mm thick
@@ -56,8 +56,8 @@ The book includes an interpretation of the inscription.
 
 ## In the book
 
-- [Main discussion — section 4.1, p. 171](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=173)
-- [Catalogue entry — p. 364](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=366)
-- **References listed:** Nordén 1943:146–154
+- [Main discussion: section 4.1, p. 171](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=173)
+- [Catalogue entry: p. 364](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=366)
+- **References listed:** Nordén 1943:146-154
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

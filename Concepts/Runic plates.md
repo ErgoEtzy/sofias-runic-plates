@@ -22,8 +22,14 @@ Runic writing also survives on stone, wood, bone, horn, weapons, jewellery, and 
 
 [[Plate types]] / [[Amulets and magical objects]] / [[Runic signatures and databases]] / [[Find contexts]]
 
+## Examples
+
+- [Kvinneby amulet](https://en.wikipedia.org/wiki/Kvinneby_amulet). A pierced copper plate with a long runic inscription.
+- [Sigtuna amulet I: object description](https://en.wikipedia.org/wiki/Sigtuna_amulet_I#Description). A measured and archaeologically documented copper plate.
+
 ## Further reading
 
-- [Wikipedia: Runic inscriptions](https://en.wikipedia.org/wiki/Runic_inscriptions)
+- [Wikipedia: Types of runic objects](https://en.wikipedia.org/wiki/Runic_inscriptions#Types_of_inscribed_objects)
+- [Wikipedia: Body of runic inscriptions](https://en.wikipedia.org/wiki/Runes#Body_of_inscriptions)
 - [Swedish National Heritage Board: About Runor](https://www.raa.se/in-english/digital-services/about-runor/)
 - [Swedish History Museum: The first runes](https://historiska.se/en/explore-history/history-hub/the-first-runes/)

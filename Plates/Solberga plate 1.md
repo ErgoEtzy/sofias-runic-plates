@@ -9,7 +9,7 @@ alternative_signatures: ""
 country: "Sweden"
 corpus_region: "Swedish corpus"
 place_of_find: "Solberga 4:11, Köpingsvik, Öland"
-dating: "1050–1150 (lV), archaeological and runological dating"
+dating: "1050-1150 (lV), archaeological and runological dating"
 year_found: 1972
 find_context: "domestic (urban environment, workshop)"
 plate_type: "B"
@@ -24,7 +24,7 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Solberga plate 1
 
-Solberga plate 1 is a copper plate found at Solberga 4:11, Köpingsvik, Öland. It is listed as type B. Archaeological and runological evidence dates it to 1050–1150 (lV).
+Solberga plate 1 is a copper plate found at Solberga 4:11, Köpingsvik, Öland. It is listed as type B. Archaeological and runological evidence dates it to 1050-1150 (lV).
 
 The book includes an interpretation of the inscription.
 
@@ -32,7 +32,7 @@ The book includes an interpretation of the inscription.
 
 - **Catalogue no.:** 41
 - **SRD:** Öl Fv1976;96A
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1972, Solberga 4:11, Köpingsvik, Öland
 - **Context:** domestic (urban environment, workshop)
 - **Object:** type B; copper; 86 mm long, 19 mm wide, 1 mm thick
@@ -56,8 +56,8 @@ The book includes an interpretation of the inscription.
 
 ## In the book
 
-- [Main discussion — section 3.4, p. 151](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=153)
-- [Catalogue entry — p. 360](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=362)
-- **References listed:** Gustavson 1976, 2004:63–66, 2017:63–99
+- [Main discussion: section 3.4, p. 151](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=153)
+- [Catalogue entry: p. 360](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=362)
+- **References listed:** Gustavson 1976, 2004:63-66, 2017:63-99
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

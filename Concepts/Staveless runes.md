@@ -22,7 +22,13 @@ They belong to the wider Younger Futhark tradition and are sometimes called Häl
 
 [[Cryptic runes]] / [[Coordinate runes]] / [[Unconventional runes]]
 
+## Examples
+
+- [[Plates/Sigtuna plate 1|Sigtuna plate 1]] and [[Plates/Sigtuna plate 2|Sigtuna plate 2]]. The two proposed plate examples reconsidered in the book.
+- [Staveless runes: named inscription examples](https://en.wikipedia.org/wiki/Staveless_runes#Examples). The Österberga, Skarpåker, Aspa bridge, and Spånga stones.
+
 ## Further reading
 
-- [Wikipedia: Staveless runes](https://en.wikipedia.org/wiki/Staveless_runes)
-- [Wikipedia: Younger Futhark](https://en.wikipedia.org/wiki/Younger_Futhark)
+- [Wikipedia: Shape of staveless runes](https://en.wikipedia.org/wiki/Staveless_runes#Shape)
+- [Wikipedia: Named staveless inscriptions](https://en.wikipedia.org/wiki/Staveless_runes#Examples)
+- [Wikipedia: Staveless Younger Futhark variant](https://en.wikipedia.org/wiki/Younger_Futhark#H%C3%A4lsinge_runes_%28staveless_runes%29)

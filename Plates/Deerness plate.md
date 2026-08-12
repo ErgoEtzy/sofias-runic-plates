@@ -9,7 +9,7 @@ alternative_signatures: ""
 country: "United Kingdom"
 corpus_region: "Outside Scandinavia"
 place_of_find: "Brough of Deerness, parish of St Andrews and Deerness, Mainland Orkney, Scotland, British Isles"
-dating: "1000–1150 (lV), archaeological dating"
+dating: "1000-1150 (lV), archaeological dating"
 year_found: 2009
 find_context: "domestic (fortification)"
 plate_type: "A"
@@ -24,7 +24,7 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Deerness plate
 
-Deerness plate is a copper plate found at Brough of Deerness, parish of St Andrews and Deerness, Mainland Orkney, Scotland, British Isles. It is listed as type A. Archaeological evidence dates it to 1000–1150 (lV).
+Deerness plate is a copper plate found at Brough of Deerness, parish of St Andrews and Deerness, Mainland Orkney, Scotland, British Isles. It is listed as type A. Archaeological evidence dates it to 1000-1150 (lV).
 
 No interpretation is given in the book.
 
@@ -32,10 +32,10 @@ No interpretation is given in the book.
 
 - **Catalogue no.:** 1
 - **SRD:** Or 21
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 2009, Brough of Deerness, parish of St Andrews and Deerness, Mainland Orkney, Scotland, British Isles
 - **Context:** domestic (fortification)
-- **Object:** type A; copper; 65 mm long, 9–10 mm wide, 1 mm thick
+- **Object:** type A; copper; 65 mm long, 9-10 mm wide, 1 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 7.1, p. 263](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=265)
-- [Catalogue entry — p. 344](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=346)
+- [Main discussion: section 7.1, p. 263](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=265)
+- [Catalogue entry: p. 344](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=346)
 - **References listed:** Gerrard & al. 2010; Hines 2013
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

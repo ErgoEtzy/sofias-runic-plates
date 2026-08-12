@@ -32,10 +32,10 @@ No interpretation is given in the book.
 
 - **Catalogue no.:** 21
 - **SRD:** no signature
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 2012, Gamla (Old) Uppsala, Uppland
 - **Context:** domestic
-- **Object:** type B; copper; 61 mm long (when straightened), 24–26 mm wide, 1 mm thick
+- **Object:** type B; copper; 61 mm long (when straightened), 24-26 mm wide, 1 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.2.1, p. 229](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=231)
-- [Catalogue entry — p. 345](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=347)
+- [Main discussion: section 5.2.1, p. 229](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=231)
+- [Catalogue entry: p. 345](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=347)
 - **References listed:** Källström 2017b
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

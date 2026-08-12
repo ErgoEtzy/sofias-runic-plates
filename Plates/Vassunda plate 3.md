@@ -32,7 +32,7 @@ The book includes an interpretation of the inscription.
 
 - **Catalogue no.:** 32
 - **SRD:** U AST1;183
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1925, Vassunda rectory, Uppland
 - **Context:** grave (Christian)
 - **Object:** type B; copper; 48 mm long, 34 mm wide, 0.5 mm thick
@@ -56,8 +56,8 @@ The book includes an interpretation of the inscription.
 
 ## In the book
 
-- [Main discussion — section 4.7, p. 204](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=206)
-- [Catalogue entry — p. 365](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=367)
-- **References listed:** Nordén 1943:183–186
+- [Main discussion: section 4.7, p. 204](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=206)
+- [Catalogue entry: p. 365](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=367)
+- **References listed:** Nordén 1943:183-186
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

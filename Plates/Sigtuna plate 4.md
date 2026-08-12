@@ -9,7 +9,7 @@ alternative_signatures: "Sl 13"
 country: "Sweden"
 corpus_region: "Swedish corpus"
 place_of_find: "in the ‘Granhäcken’ block, Sigtuna, Uppland"
-dating: "1000–1150 (lV), archaeological dating"
+dating: "1000-1150 (lV), archaeological dating"
 year_found: 1985
 find_context: "domestic (urban environment)"
 plate_type: "fragmentary"
@@ -24,7 +24,7 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Sigtuna plate 4
 
-Sigtuna plate 4 is a recorded as both copper and bronze plate found at the ‘Granhäcken’ block, Sigtuna, Uppland. It is listed as type fragmentary. Archaeological evidence dates it to 1000–1150 (lV).
+Sigtuna plate 4 is a recorded as both copper and bronze plate found at the ‘Granhäcken’ block, Sigtuna, Uppland. It is listed as type fragmentary. Archaeological evidence dates it to 1000-1150 (lV).
 
 No interpretation is given in the book.
 
@@ -35,7 +35,7 @@ No interpretation is given in the book.
 - **Other signature:** Sl 13
 - **Found:** 1985, in the ‘Granhäcken’ block, Sigtuna, Uppland
 - **Context:** domestic (urban environment)
-- **Object:** type fragmentary; recorded as both copper and bronze; 45 mm long, 16–20 mm wide, 0.5 mm thick
+- **Object:** type fragmentary; recorded as both copper and bronze; 45 mm long, 16-20 mm wide, 0.5 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.2.3, p. 231](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=233)
-- [Catalogue entry — p. 357](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=359)
-- **References listed:** Gustavson 2014; Gustavson & Åhlén 1986:11; Strid & Åhlén 1986:220; Gustavson & Källström 2016:22–23
+- [Main discussion: section 5.2.3, p. 231](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=233)
+- [Catalogue entry: p. 357](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=359)
+- **References listed:** Gustavson 2014; Gustavson & Åhlén 1986:11; Strid & Åhlén 1986:220; Gustavson & Källström 2016:22-23
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

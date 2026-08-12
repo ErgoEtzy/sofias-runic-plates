@@ -22,8 +22,13 @@ The Elder Futhark and Younger Futhark differ in both inventory and sound values.
 
 [[Conventional runes]] / [[Unconventional runes]] / [[Cryptic runes]] / [[Dating runic inscriptions]]
 
+## Examples
+
+- [[Plates/Ladoga plate|Ladoga plate]]. Older forms are among the possibilities considered for this Viking-Age plate.
+- [Rök runestone: inscription](https://en.wikipedia.org/wiki/R%C3%B6k_runestone#Inscription). Younger and Elder Futhark forms appear in the same monument.
+
 ## Further reading
 
-- [Wikipedia: Elder Futhark](https://en.wikipedia.org/wiki/Elder_Futhark)
-- [Wikipedia: Younger Futhark](https://en.wikipedia.org/wiki/Younger_Futhark)
+- [Wikipedia: Elder Futhark rune row](https://en.wikipedia.org/wiki/Elder_Futhark#Description)
+- [Wikipedia: Younger Futhark history](https://en.wikipedia.org/wiki/Younger_Futhark#History)
 - [Swedish History Museum: The first runes](https://historiska.se/en/explore-history/history-hub/the-first-runes/)

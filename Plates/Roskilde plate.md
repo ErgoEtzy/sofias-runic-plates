@@ -9,7 +9,7 @@ alternative_signatures: "DK no: Sj 27"
 country: "Denmark"
 corpus_region: "Danish corpus"
 place_of_find: "Roskilde"
-dating: "1050–1100, (lV) runological dating"
+dating: "1050-1100, (lV) runological dating"
 year_found: 1866
 find_context: "unknown"
 plate_type: "A (+copper wire)"
@@ -24,7 +24,7 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Roskilde plate
 
-Roskilde plate is a bronze plate found at Roskilde. It is listed as type A (+copper wire). The catalogue dates it to 1050–1100, (lV) runological dating.
+Roskilde plate is a bronze plate found at Roskilde. It is listed as type A (+copper wire). The catalogue dates it to 1050-1100, (lV) runological dating.
 
 The book includes an interpretation of the inscription.
 
@@ -35,7 +35,7 @@ The book includes an interpretation of the inscription.
 - **Other signature:** DK no: Sj 27
 - **Found:** 1866, Roskilde
 - **Context:** unknown
-- **Object:** type A (+copper wire); bronze; 90 mm long, 10–12 mm wide, 1.5 mm thick
+- **Object:** type A (+copper wire); bronze; 90 mm long, 10-12 mm wide, 1.5 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ The book includes an interpretation of the inscription.
 
 ## In the book
 
-- [Main discussion — section 6.1.2, p. 249](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=251)
-- [Catalogue entry — p. 355](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=357)
-- **References listed:** Jacobsen & Moltke in DRI, DR 246; Lindquist 1932:66 f., fn.1; Steenholt Olesen 2007:94–98; Stephens 1867–68:864
+- [Main discussion: section 6.1.2, p. 249](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=251)
+- [Catalogue entry: p. 355](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=357)
+- **References listed:** Jacobsen & Moltke in DRI, DR 246; Lindquist 1932:66 f., fn.1; Steenholt Olesen 2007:94-98; Stephens 1867-68:864
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

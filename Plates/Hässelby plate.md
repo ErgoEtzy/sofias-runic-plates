@@ -32,7 +32,7 @@ No interpretation is given in the book.
 
 - **Catalogue no.:** 22
 - **SRD:** U FJÖLNIR1985:2;28
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1984, Hässelby, Börje parish, Uppland
 - **Context:** grave
 - **Object:** type C, fragmentary, pendant; bronze; reconstructed length of 70 mm, reconstructed width of 20 mm, 0.5 mm thick
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.3.2, p. 243](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=245)
-- [Catalogue entry — p. 350](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=352)
+- [Main discussion: section 5.3.2, p. 243](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=245)
+- [Catalogue entry: p. 350](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=352)
 - **References listed:** Karlenby 1985
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

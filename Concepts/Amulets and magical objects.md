@@ -22,8 +22,14 @@ An amulet is normally understood as a portable object believed to protect its be
 
 [[Runic plates]] / [[Plate types]] / [[Magic and function]] / [[Spell types and formulas]]
 
+## Examples
+
+- [[Plates/Kvinneby plate|Kvinneby plate]]. A pierced copper plate with a protective text.
+- [Kvinneby amulet: inscription](https://en.wikipedia.org/wiki/Kvinneby_amulet#Inscription). The runes and proposed protective reading.
+- [Sigtuna amulet I: inscription](https://en.wikipedia.org/wiki/Sigtuna_amulet_I#Inscription). A healing charm on a copper plate.
+
 ## Further reading
 
-- [Wikipedia: Amulet](https://en.wikipedia.org/wiki/Amulet)
-- [Wikipedia: Apotropaic magic](https://en.wikipedia.org/wiki/Apotropaic_magic)
+- [Wikipedia: Amulets: definition](https://en.wikipedia.org/wiki/Amulet)
+- [Wikipedia: Apotropaic objects and symbols](https://en.wikipedia.org/wiki/Apotropaic_magic#Symbols_and_objects)
 - [Swedish History Museum: Viking-Age rune sheet](https://vikingar.historiska.se/object_details.php?l=en&object=FCF11729-069A-4403-81C9-117C129A8FD4)

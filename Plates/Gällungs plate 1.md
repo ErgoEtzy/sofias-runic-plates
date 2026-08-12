@@ -32,7 +32,7 @@ No interpretation is given in the book.
 
 - **Catalogue no.:** 13
 - **SRD:** G 261
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1973, Gällungs, Gotland
 - **Context:** grave
 - **Object:** type C, roll; bronze; 80 mm long when straightened, 14 mm wide, 10 mm diameter
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.3.1, p. 241](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=243)
-- [Catalogue entry — p. 347](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=349)
+- [Main discussion: section 5.3.1, p. 241](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=243)
+- [Catalogue entry: p. 347](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=349)
 - **References listed:** Snædal in GR 3, G 261
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

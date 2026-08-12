@@ -9,7 +9,7 @@ alternative_signatures: "DK no: Bh 60"
 country: "Denmark"
 corpus_region: "Danish corpus"
 place_of_find: "Gyldensgård, Østermarie parish, Bornholm"
-dating: "1050–1199 (lV), archaeological dating"
+dating: "1050-1199 (lV), archaeological dating"
 year_found: 2002
 find_context: "domestic"
 plate_type: "fragmentary"
@@ -24,7 +24,7 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Gyldensgård plate
 
-Gyldensgård plate is a bronze plate found at Gyldensgård, Østermarie parish, Bornholm. It is listed as type fragmentary. Archaeological evidence dates it to 1050–1199 (lV).
+Gyldensgård plate is a bronze plate found at Gyldensgård, Østermarie parish, Bornholm. It is listed as type fragmentary. Archaeological evidence dates it to 1050-1199 (lV).
 
 No interpretation is given in the book.
 
@@ -35,7 +35,7 @@ No interpretation is given in the book.
 - **Other signature:** DK no: Bh 60
 - **Found:** 2002, Gyldensgård, Østermarie parish, Bornholm
 - **Context:** domestic
-- **Object:** type fragmentary; bronze; 60 mm long, 12–13 mm wide, 2–3 mm thick
+- **Object:** type fragmentary; bronze; 60 mm long, 12-13 mm wide, 2-3 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 6.4.3, p. 260](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=262)
-- [Catalogue entry — p. 347](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=349)
-- **References listed:** Stoklund & al. (2004b:7–8); Steenholt Olesen 2010 (photo p. 164)
+- [Main discussion: section 6.4.3, p. 260](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=262)
+- [Catalogue entry: p. 347](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=349)
+- **References listed:** Stoklund & al. (2004b:7-8); Steenholt Olesen 2010 (photo p. 164)
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

@@ -22,7 +22,13 @@ Bind-runes occur in several periods and settings. They are a writing technique, 
 
 [[Conventional runes]] / [[Unconventional runes]] / [[Cryptic runes]]
 
+## Examples
+
+- [[Plates/Järfälla plate|Järfälla plate]]. A bind-rune used as a correction.
+- [Kylver Stone: inscription](https://en.wikipedia.org/wiki/Kylver_Stone#Inscription). Includes a tree-like sign interpreted as a stacked bind-rune.
+
 ## Further reading
 
-- [Wikipedia: Bind rune](https://en.wikipedia.org/wiki/Bind_rune)
+- [Wikipedia: Bind-rune construction](https://en.wikipedia.org/wiki/Bind_rune#Description)
+- [Wikipedia: Historical bind-rune examples](https://en.wikipedia.org/wiki/Bind_rune#Examples)
 - [Swedish National Heritage Board: Runic terms and transliteration](https://www.raa.se/hitta-information/runor/begrepp-och-principer-for-translitterering/)

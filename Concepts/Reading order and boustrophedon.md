@@ -22,7 +22,11 @@ Direction is part of the reading, not just the layout. Reversing the order of si
 
 [[Reading and interpretation]] / [[Runological method]] / [[Runic plates]]
 
+## Examples
+
+- [[Plates/Østermarie plate|Østermarie plate]]. A spiral boustrophedon layout.
+- [Kvinneby amulet: inscription](https://en.wikipedia.org/wiki/Kvinneby_amulet#Inscription). A long boustrophedon plate inscription.
+
 ## Further reading
 
-- [Wikipedia: Boustrophedon](https://en.wikipedia.org/wiki/Boustrophedon)
-- [Wikipedia: Runes](https://en.wikipedia.org/wiki/Runes)
+- [Wikipedia: Boustrophedon: definition](https://en.wikipedia.org/wiki/Boustrophedon)

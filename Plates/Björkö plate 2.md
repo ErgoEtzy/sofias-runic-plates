@@ -32,10 +32,10 @@ No interpretation is given in the book.
 
 - **Catalogue no.:** 19
 - **SRD:** U NOR2002;28
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 2002, fort (The Garrison), Birka, Uppland
 - **Context:** domestic (urban environment, fortification)
-- **Object:** type A (+copper wire); bronze; 21 mm long, 8–9.5 mm wide, 0.5 mm thick
+- **Object:** type A (+copper wire); bronze; 21 mm long, 8-9.5 mm wide, 0.5 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.1.3, p. 219](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=221)
-- [Catalogue entry — p. 343](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=345)
+- [Main discussion: section 5.1.3, p. 219](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=221)
+- [Catalogue entry: p. 343](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=345)
 - **References listed:** Gustavson 2002a (photo), 2002b, 2009a (photo)
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

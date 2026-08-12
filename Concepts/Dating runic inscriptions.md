@@ -22,8 +22,13 @@ A runological date is usually a range rather than a precise year. Letter forms, 
 
 [[Conventional runes]] / [[Older runes in younger inscriptions]] / [[Find contexts]] / [[Runological method]]
 
+## Examples
+
+- [Kylver Stone: find and dating](https://en.wikipedia.org/wiki/Kylver_Stone#Description). Archaeological dating from a grave context.
+- [Sigtuna amulet I: find and dating](https://en.wikipedia.org/wiki/Sigtuna_amulet_I#Description). Find depth and associated objects recorded with the plate.
+
 ## Further reading
 
-- [Wikipedia: Younger Futhark](https://en.wikipedia.org/wiki/Younger_Futhark)
-- [Wikipedia: Elder Futhark](https://en.wikipedia.org/wiki/Elder_Futhark)
+- [Wikipedia: Younger Futhark history](https://en.wikipedia.org/wiki/Younger_Futhark#History)
+- [Wikipedia: Elder Futhark inscription corpus](https://en.wikipedia.org/wiki/Elder_Futhark#Inscription_corpus)
 - [Swedish History Museum: The first runes](https://historiska.se/en/explore-history/history-hub/the-first-runes/)

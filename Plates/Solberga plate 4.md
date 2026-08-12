@@ -32,10 +32,10 @@ No interpretation is given in the book.
 
 - **Catalogue no.:** 44
 - **SRD:** Öl ATA423-2541-1996
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1990, Solberga 4:8, Köpingsvik, Öland
 - **Context:** domestic (urban environment)
-- **Object:** type A (+wire); bronze; 26–27 mm long, 10–11 mm wide, 0.5 mm thick
+- **Object:** type A (+wire); bronze; 26-27 mm long, 10-11 mm wide, 0.5 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.1.7, p. 227](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=229)
-- [Catalogue entry — p. 362](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=364)
+- [Main discussion: section 5.1.7, p. 227](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=229)
+- [Catalogue entry: p. 362](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=364)
 - **References listed:** Gustavson 2004:68
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

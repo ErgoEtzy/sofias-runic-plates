@@ -32,10 +32,10 @@ No interpretation is given in the book.
 
 - **Catalogue no.:** 36
 - **SRD:** no signature
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 2012, Sunnerby, Otterstad parish on Kållandsö, Västergö tland (Sunnerby 9:1, site RAÄ 57)
 - **Context:** domestic
-- **Object:** type A, fragmentary; copper; 23 mm long, 22–23 mm wide, 0.8 mm thick
+- **Object:** type A, fragmentary; copper; 23 mm long, 22-23 mm wide, 0.8 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.1.5, p. 224](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=226)
-- [Catalogue entry — p. 363](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=365)
+- [Main discussion: section 5.1.5, p. 224](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=226)
+- [Catalogue entry: p. 363](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=365)
 - **References listed:** Källström 2014b
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

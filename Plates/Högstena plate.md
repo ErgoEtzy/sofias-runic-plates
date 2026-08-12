@@ -9,7 +9,7 @@ alternative_signatures: ""
 country: "Sweden"
 corpus_region: "Swedish corpus"
 place_of_find: "Högstena church cemetery, Västergötland"
-dating: "1050–1150 (lV), runological dating"
+dating: "1050-1150 (lV), runological dating"
 year_found: 1920
 find_context: "grave"
 plate_type: "B, broken into two parts (C?)"
@@ -24,7 +24,7 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Högstena plate
 
-Högstena plate is a bronze plate found at Högstena church cemetery, Västergötland. It is listed as type B, broken into two parts (C?). The runes date it to 1050–1150 (lV).
+Högstena plate is a bronze plate found at Högstena church cemetery, Västergötland. It is listed as type B, broken into two parts (C?). The runes date it to 1050-1150 (lV).
 
 The book includes an interpretation of the inscription.
 
@@ -32,10 +32,10 @@ The book includes an interpretation of the inscription.
 
 - **Catalogue no.:** 35
 - **SRD:** Vg 216
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1920, Högstena church cemetery, Västergötland
 - **Context:** grave
-- **Object:** type B, broken into two parts (C?); bronze; 88 mm (71+17) long, 19–20 mm wide, 1.3–1.4 mm thick
+- **Object:** type B, broken into two parts (C?); bronze; 88 mm (71+17) long, 19-20 mm wide, 1.3-1.4 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ The book includes an interpretation of the inscription.
 
 ## In the book
 
-- [Main discussion — section 4.3, p. 179](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=181)
-- [Catalogue entry — p. 350](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=352)
-- **References listed:** Jungner 1936; Nordén 1943:175–177; Strid 1994; Svärdström 1967; Svärdström in VgR, Vg 216
+- [Main discussion: section 4.3, p. 179](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=181)
+- [Catalogue entry: p. 350](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=352)
+- **References listed:** Jungner 1936; Nordén 1943:175-177; Strid 1994; Svärdström 1967; Svärdström in VgR, Vg 216
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

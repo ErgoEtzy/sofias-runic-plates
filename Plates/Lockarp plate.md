@@ -9,7 +9,7 @@ alternative_signatures: "DK no: Sk 134"
 country: "Sweden"
 corpus_region: "Danish corpus (historical Denmark/Scania)"
 place_of_find: "Lockarp, Scania"
-dating: "1000–1050, (mV) archaeological dating"
+dating: "1000-1050, (mV) archaeological dating"
 year_found: 2002
 find_context: "domestic (rural environment)"
 plate_type: "B"
@@ -24,7 +24,7 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Lockarp plate
 
-Lockarp plate is a copper plate found at Lockarp, Scania. It is listed as type B. The catalogue dates it to 1000–1050, (mV) archaeological dating.
+Lockarp plate is a copper plate found at Lockarp, Scania. It is listed as type B. The catalogue dates it to 1000-1050, (mV) archaeological dating.
 
 No interpretation is given in the book.
 
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 6.4.2, p. 259](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=261)
-- [Catalogue entry — p. 354](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=356)
+- [Main discussion: section 6.4.2, p. 259](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=261)
+- [Catalogue entry: p. 354](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=356)
 - **References listed:** Gustavson 2003b:20 f.
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

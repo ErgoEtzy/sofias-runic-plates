@@ -22,6 +22,11 @@ A signum is an identifier, not a transcription. The Swedish National Heritage Bo
 
 [[Runic plates]] / [[Transliteration and normalization]] / [[Dating runic inscriptions]]
 
+## Examples
+
+- [Sigtuna amulet I: database reading](https://en.wikipedia.org/wiki/Sigtuna_amulet_I#Scandinavian_Runic-text_Database). Gives the signum and the database text layers.
+- [Vg 8: inscription](https://en.wikipedia.org/wiki/V%C3%A4sterg%C3%B6tland_Runic_Inscription_8#Inscription). Shows an identifier beside transliteration, normalization, and translation.
+
 ## Further reading
 
 - [Uppsala University: Scandinavian Runic-text Database](https://www.uu.se/en/department/scandinavian-languages/research/research-projects/scandinavian-runic-text-database)

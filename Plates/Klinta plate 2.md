@@ -32,10 +32,10 @@ No interpretation is given in the book.
 
 - **Catalogue no.:** 39
 - **SRD:** Öl BN84
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1957, Klinta, Köpingsvik parish, Öland
 - **Context:** grave
-- **Object:** type A; copper; 44–45 mm long, 9–10 mm wide, 0.5 mm thick
+- **Object:** type A; copper; 44-45 mm long, 9-10 mm wide, 0.5 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.1.6, p. 225](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=227)
-- [Catalogue entry — p. 352](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=354)
+- [Main discussion: section 5.1.6, p. 225](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=227)
+- [Catalogue entry: p. 352](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=354)
 - **References listed:** Gustavson 2004:66 f.; Nilsson 1973 no 84
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

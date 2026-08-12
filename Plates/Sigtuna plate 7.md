@@ -9,7 +9,7 @@ alternative_signatures: "Sl 120"
 country: "Sweden"
 corpus_region: "Swedish corpus"
 place_of_find: "‘Göte’s petrol station’, Sigtuna"
-dating: "1050–1150 (lV), archaeological dating"
+dating: "1050-1150 (lV), archaeological dating"
 year_found: 2014
 find_context: "domestic (urban environment)"
 plate_type: "B"
@@ -24,7 +24,7 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Sigtuna plate 7
 
-Sigtuna plate 7 is a copper alloy plate found at ‘Göte’s petrol station’, Sigtuna. It is listed as type B. Archaeological evidence dates it to 1050–1150 (lV).
+Sigtuna plate 7 is a copper alloy plate found at ‘Göte’s petrol station’, Sigtuna. It is listed as type B. Archaeological evidence dates it to 1050-1150 (lV).
 
 No interpretation is given in the book.
 
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.2.6, p. 238](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=240)
-- [Catalogue entry — p. 359](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=361)
-- **References listed:** Gustavson (Sl 120); Gustavson & Källström 2016:19–20
+- [Main discussion: section 5.2.6, p. 238](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=240)
+- [Catalogue entry: p. 359](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=361)
+- **References listed:** Gustavson (Sl 120); Gustavson & Källström 2016:19-20
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

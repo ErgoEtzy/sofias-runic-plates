@@ -6,7 +6,7 @@ tags: ["runes/index", "sofia-pereswetoff-morath"]
 
 # Concepts
 
-The 24 notes below cover the book's main terminology, reading method, rune forms, coding systems, archaeological context, and discussion of magic. Each note separates the book's usage from wider background and links to accessible reference material.
+The 24 notes below cover the book's main terminology, reading method, rune forms, coding systems, archaeological context, and discussion of magic. Each note separates the book's usage from wider background, points to examples in the plate catalogue, and links directly to relevant Wikipedia sections and inscription texts.
 
 ## The corpus
 
@@ -46,4 +46,5 @@ The 24 notes below cover the book's main terminology, reading method, rune forms
 - [Swedish National Heritage Board: About Runor](https://www.raa.se/in-english/digital-services/about-runor/)
 - [Uppsala University: Scandinavian Runic-text Database](https://www.uu.se/en/department/scandinavian-languages/research/research-projects/scandinavian-runic-text-database)
 - [Swedish History Museum: The first runes](https://historiska.se/en/explore-history/history-hub/the-first-runes/)
-- [Wikipedia: Runes](https://en.wikipedia.org/wiki/Runes)
+- [Wikipedia: runic alphabets](https://en.wikipedia.org/wiki/Runes#Runic_alphabets)
+- [Wikipedia: body of runic inscriptions](https://en.wikipedia.org/wiki/Runes#Body_of_inscriptions)

@@ -22,7 +22,13 @@ Surface marks can be difficult to classify on corroded or worn metal. Repeated s
 
 [[Runiforms and rune-like signs]] / [[Runological method]] / [[Runes with non-graphematic branches]]
 
+## Examples
+
+- [[Plates/Solberga plate 4|Solberga plate 4]]. Marks classed as rune-like rather than readable writing.
+- [Pseudo-runes: non-lexical inscriptions](https://en.wikipedia.org/wiki/Pseudo-runes#Non-lexical_inscriptions). Named comparisons that cannot be read as ordinary runes.
+
 ## Further reading
 
-- [Wikipedia: Runic inscriptions](https://en.wikipedia.org/wiki/Runic_inscriptions)
+- [Wikipedia: Imitation runes](https://en.wikipedia.org/wiki/Pseudo-runes#Imitation_runes)
+- [Wikipedia: Non-lexical pseudo-runic inscriptions](https://en.wikipedia.org/wiki/Pseudo-runes#Non-lexical_inscriptions)
 - [Swedish National Heritage Board: Reading runic inscriptions](https://www.raa.se/kulturarv/runor-och-runstenar/att-lasa-runor-och-runinskrifter/)

@@ -22,7 +22,13 @@ This is a working typology for the corpus, not a universal classification of run
 
 [[Runic plates]] / [[Amulets and magical objects]] / [[Find contexts]]
 
+## Examples
+
+- [[Plates/Kvinneby plate|Kvinneby plate]]. Type A, with a hole for suspension.
+- [Sigtuna amulet I: object description](https://en.wikipedia.org/wiki/Sigtuna_amulet_I#Description). Measurements, material, and find circumstances for a type B plate.
+
 ## Further reading
 
-- [Wikipedia: Amulet](https://en.wikipedia.org/wiki/Amulet)
+- [Wikipedia: Types of runic objects](https://en.wikipedia.org/wiki/Runic_inscriptions#Types_of_inscribed_objects)
+- [Wikipedia: Amulets: definition](https://en.wikipedia.org/wiki/Amulet)
 - [Swedish History Museum: Viking-Age rune sheet](https://vikingar.historiska.se/object_details.php?l=en&object=FCF11729-069A-4403-81C9-117C129A8FD4)

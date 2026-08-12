@@ -32,7 +32,7 @@ The book includes an interpretation of the inscription.
 
 - **Catalogue no.:** 23
 - **SRD:** U Fv1969;210
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1962, Veddesta farm, Järfälla, Uppland
 - **Context:** grave
 - **Object:** type B; copper; 47 mm long, 22 mm wide, 0.20 mm thick
@@ -56,8 +56,8 @@ The book includes an interpretation of the inscription.
 
 ## In the book
 
-- [Main discussion — section 4.2, p. 175](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=177)
-- [Catalogue entry — p. 351](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=353)
-- **References listed:** Gustavson 1969; Källström 1998:28–30
+- [Main discussion: section 4.2, p. 175](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=177)
+- [Catalogue entry: p. 351](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=353)
+- **References listed:** Gustavson 1969; Källström 1998:28-30
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

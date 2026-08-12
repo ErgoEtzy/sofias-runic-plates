@@ -22,7 +22,13 @@ The category is descriptive, not an alphabet. Each form still needs to be tested
 
 [[Conventional runes]] / [[Cryptic runes]] / [[Runiforms and rune-like signs]] / [[Runes as writing and magical symbols]]
 
+## Examples
+
+- [[Plates/Eketorp plate|Eketorp plate]]. Balanced forms and bind-runes mixed with ordinary runes.
+- [Rök runestone: inscription](https://en.wikipedia.org/wiki/R%C3%B6k_runestone#Inscription). Cipher runes and more than one futhark in a readable text.
+
 ## Further reading
 
-- [Wikipedia: Cipher runes](https://en.wikipedia.org/wiki/Cipher_runes)
-- [Wikipedia: Runes](https://en.wikipedia.org/wiki/Runes)
+- [Wikipedia: Structure of cipher runes](https://en.wikipedia.org/wiki/Cipher_runes#Structure_of_the_ciphers)
+- [Wikipedia: Imitation and pseudo-runes](https://en.wikipedia.org/wiki/Pseudo-runes#Imitation_runes)
+- [Wikipedia: Variation in early rune forms](https://en.wikipedia.org/wiki/Runes#Early_inscriptions)

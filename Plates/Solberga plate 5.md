@@ -32,10 +32,10 @@ No interpretation is given in the book.
 
 - **Catalogue no.:** 45
 - **SRD:** no signature
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1972, Solberga 4:11, Köpingsvik, Öland
 - **Context:** domestic (urban environment)
-- **Object:** type A (+wire); copper; 39–40 mm long, 12–14 mm wide, 1 mm thick
+- **Object:** type A (+wire); copper; 39-40 mm long, 12-14 mm wide, 1 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.1.7, p. 227](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=229)
-- [Catalogue entry — p. 363](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=365)
+- [Main discussion: section 5.1.7, p. 227](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=229)
+- [Catalogue entry: p. 363](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=365)
 - **References listed:** Gustavson 2004:67 f.
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

@@ -22,7 +22,13 @@ The boundary is practical rather than absolute. A sign can move from 'unreadable
 
 [[Rune-like markings]] / [[Unconventional runes]] / [[Runological method]]
 
+## Examples
+
+- [[Plates/Sigtuna plate 7|Sigtuna plate 7]]. Runiforms mixed with conventional and unconventional runes.
+- [Pseudo-runes: non-lexical inscriptions](https://en.wikipedia.org/wiki/Pseudo-runes#Non-lexical_inscriptions). A wider set of named, unreadable comparisons.
+
 ## Further reading
 
-- [Wikipedia: Runic inscriptions](https://en.wikipedia.org/wiki/Runic_inscriptions)
+- [Wikipedia: Historical runiform scripts](https://en.wikipedia.org/wiki/Pseudo-runes#Runiform_scripts)
+- [Wikipedia: Non-lexical pseudo-runic inscriptions](https://en.wikipedia.org/wiki/Pseudo-runes#Non-lexical_inscriptions)
 - [Swedish National Heritage Board: Reading runic inscriptions](https://www.raa.se/kulturarv/runor-och-runstenar/att-lasa-runor-och-runinskrifter/)

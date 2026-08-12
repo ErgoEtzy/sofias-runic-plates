@@ -22,7 +22,12 @@ The term is specific to the book's analysis. In catalogues and older discussions
 
 [[Unconventional runes]] / [[Cryptic runes]] / [[Runes as writing and magical symbols]]
 
+## Examples
+
+- [[Plates/Eketorp plate|Eketorp plate]]. Balanced forms mixed with conventional runes and bind-runes.
+- [[Plates/Solberga plate 1|Solberga plate 1]]. Balanced and enhanced forms in a longer mixed inscription.
+
 ## Further reading
 
-- [Wikipedia: Runes](https://en.wikipedia.org/wiki/Runes)
+- [Wikipedia: Rune shapes and Roman script](https://en.wikipedia.org/wiki/Runes#Differences_from_Roman_script)
 - [Swedish National Heritage Board: Runic terms and transliteration](https://www.raa.se/hitta-information/runor/begrepp-och-principer-for-translitterering/)

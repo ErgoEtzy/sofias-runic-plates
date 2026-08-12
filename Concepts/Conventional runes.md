@@ -22,7 +22,14 @@ Both long-branch and short-twig runes belong to the sixteen-character Younger Fu
 
 [[Unconventional runes]] / [[Older runes in younger inscriptions]] / [[Dating runic inscriptions]]
 
+## Examples
+
+- [[Plates/Björkö plate 1|Björkö plate 1]]. Long-branch runes with a few short-twig forms.
+- [Rök runestone: inscription](https://en.wikipedia.org/wiki/R%C3%B6k_runestone#Inscription). A long Younger Futhark text with transliteration.
+
 ## Further reading
 
-- [Wikipedia: Younger Futhark](https://en.wikipedia.org/wiki/Younger_Futhark)
+- [Wikipedia: Younger Futhark variants](https://en.wikipedia.org/wiki/Younger_Futhark#Variants)
+- [Wikipedia: Long-branch rune row](https://en.wikipedia.org/wiki/Younger_Futhark#Long-branch_runes)
+- [Wikipedia: Short-twig rune row](https://en.wikipedia.org/wiki/Younger_Futhark#Short-twig_runes)
 - [Swedish History Museum: The first runes](https://historiska.se/en/explore-history/history-hub/the-first-runes/)

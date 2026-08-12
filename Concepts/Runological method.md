@@ -22,8 +22,14 @@ Runology combines epigraphy, historical linguistics, archaeology, and object stu
 
 [[Reading and interpretation]] / [[Transliteration and normalization]] / [[Rune-like markings]] / [[Dating runic inscriptions]]
 
+## Examples
+
+- [Kvinneby amulet: deciphering attempts](https://en.wikipedia.org/wiki/Kvinneby_amulet#Deciphering_attempts). Several readings laid out far enough to compare their assumptions.
+- [Vg 8: inscription](https://en.wikipedia.org/wiki/V%C3%A4sterg%C3%B6tland_Runic_Inscription_8#Inscription). The standard text layers used in runology.
+
 ## Further reading
 
 - [Wikipedia: Runology](https://en.wikipedia.org/wiki/Runology)
+- [Wikipedia: History of runology](https://en.wikipedia.org/wiki/Runes#Runology)
 - [Uppsala University: Runology](https://www.uu.se/en/study/course?query=5SV125)
 - [Swedish National Heritage Board: Reading runic inscriptions](https://www.raa.se/kulturarv/runor-och-runstenar/att-lasa-runor-och-runinskrifter/)

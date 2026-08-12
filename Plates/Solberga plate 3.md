@@ -32,7 +32,7 @@ No interpretation is given in the book.
 
 - **Catalogue no.:** 43
 - **SRD:** Öl ATA6371/83
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1983, Solberga 4:8, Köpingsvik, Öland
 - **Context:** domestic (urban environment)
 - **Object:** type A; copper; 44 mm long, 26 mm wide, 1 mm thick
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.1.7, p. 227](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=229)
-- [Catalogue entry — p. 362](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=364)
+- [Main discussion: section 5.1.7, p. 227](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=229)
+- [Catalogue entry: p. 362](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=364)
 - **References listed:** Gustavson 2004:68
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

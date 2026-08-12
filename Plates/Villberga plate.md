@@ -32,10 +32,10 @@ The book includes an interpretation of the inscription.
 
 - **Catalogue no.:** 33
 - **SRD:** U AST1;174
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** unknown, purchased by Museum of Nordic Archaeology in Uppsala in 1928, unknown, Villberga, Uppland
 - **Context:** unknown
-- **Object:** type A; copper; 46 mm long, 32–33 mm wide, 1 mm thick
+- **Object:** type A; copper; 46 mm long, 32-33 mm wide, 1 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ The book includes an interpretation of the inscription.
 
 ## In the book
 
-- [Main discussion — section 5.1.4, p. 221](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=223)
-- [Catalogue entry — p. 365](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=367)
-- **References listed:** Eriksson & Zetterholm 1933:138; Nordén 1943:173–175
+- [Main discussion: section 5.1.4, p. 221](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=223)
+- [Catalogue entry: p. 365](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=367)
+- **References listed:** Eriksson & Zetterholm 1933:138; Nordén 1943:173-175
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

@@ -32,10 +32,10 @@ The book includes an interpretation of the inscription.
 
 - **Catalogue no.:** 11
 - **SRD:** RU Melnikova2001;189
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1983, Rjurikovo Gorodišče, Novgorod, Russia
 - **Context:** domestic (urban environment, fortification)
-- **Object:** type A; bronze; 49 mm long, 12–13 mm wide, 1 mm thick
+- **Object:** type A; bronze; 49 mm long, 12-13 mm wide, 1 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ The book includes an interpretation of the inscription.
 
 ## In the book
 
-- [Main discussion — section 7.2.1, p. 265](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=267)
-- [Catalogue entry — p. 346](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=348)
-- **References listed:** Mel´nikova 1987:163–166, 1994:232–239, 2001:188–189
+- [Main discussion: section 7.2.1, p. 265](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=267)
+- [Catalogue entry: p. 346](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=348)
+- **References listed:** Mel´nikova 1987:163-166, 1994:232-239, 2001:188-189
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

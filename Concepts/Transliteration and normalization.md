@@ -22,8 +22,14 @@ These layers answer different questions. Transliteration records the proposed si
 
 [[Reading and interpretation]] / [[Runological method]] / [[Runic signatures and databases]]
 
+## Examples
+
+- [Sigtuna amulet I: database text](https://en.wikipedia.org/wiki/Sigtuna_amulet_I#Scandinavian_Runic-text_Database). Transliteration followed by normalized forms and English.
+- [Vg 8: inscription](https://en.wikipedia.org/wiki/V%C3%A4sterg%C3%B6tland_Runic_Inscription_8#Inscription). Side-by-side transliteration, transcription, and translation.
+
 ## Further reading
 
-- [Wikipedia: Transliteration](https://en.wikipedia.org/wiki/Transliteration)
+- [Wikipedia: Definition of transliteration](https://en.wikipedia.org/wiki/Transliteration#Definitions)
+- [Wikipedia: Transliteration versus transcription](https://en.wikipedia.org/wiki/Transliteration#Difference_from_transcription)
 - [Swedish National Heritage Board: Languages in Runor](https://www.raa.se/hitta-information/runor/sprak-i-soktjansten-runor/)
 - [Swedish National Heritage Board: Reading runic inscriptions](https://www.raa.se/kulturarv/runor-och-runstenar/att-lasa-runor-och-runinskrifter/)

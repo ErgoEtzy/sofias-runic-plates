@@ -22,8 +22,13 @@ A single inscription can combine several types. A command may accompany a ritual
 
 [[Magic and function]] / [[Amulets and magical objects]] / [[Runes as writing and magical symbols]] / [[Find contexts]]
 
+## Examples
+
+- [Sigtuna amulet I: inscription](https://en.wikipedia.org/wiki/Sigtuna_amulet_I#Inscription). An exhortative healing formula with repeated commands.
+- [Ribe skull fragment: description and text](https://en.wikipedia.org/wiki/Ribe_skull_fragment#Description). A healing formula on bone rather than metal.
+
 ## Further reading
 
-- [Wikipedia: Runic magic](https://en.wikipedia.org/wiki/Runic_magic)
-- [Wikipedia: Apotropaic magic](https://en.wikipedia.org/wiki/Apotropaic_magic)
+- [Wikipedia: Epigraphic evidence for runic magic](https://en.wikipedia.org/wiki/Runic_magic#Epigraphy)
+- [Wikipedia: Apotropaic objects and symbols](https://en.wikipedia.org/wiki/Apotropaic_magic#Symbols_and_objects)
 - [Swedish History Museum: Runes](https://historiska.se/utforska-historien/kunskapsbank/runor/)

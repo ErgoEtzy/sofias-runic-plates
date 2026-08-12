@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.2.2, p. 230](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=232)
-- [Catalogue entry — p. 357](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=359)
+- [Main discussion: section 5.2.2, p. 230](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=232)
+- [Catalogue entry: p. 357](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=359)
 - **References listed:** Nordén 1943:170 f.; Gustavson 2013; Gustavson & Källström 2016:22
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

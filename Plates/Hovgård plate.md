@@ -32,7 +32,7 @@ No interpretation is given in the book.
 
 - **Catalogue no.:** 17
 - **SRD:** U NOR1994;26A
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1993, Hovgården, Alsnö House, Adelsö parish, Uppland
 - **Context:** domestic
 - **Object:** type A (+silver wire); bronze; 60 mm long, 14 mm wide, 1 mm thick
@@ -41,7 +41,7 @@ No interpretation is given in the book.
 
 - **Rune forms:** conventional runes (k, b, t) and unconventional runes
 - **Layout:** two sides, divided into four rows; two rows on each side
-- **Reading order:** undetermined but to judge from the conventional runes and marks of punctuation – straightforward
+- **Reading order:** undetermined but to judge from the conventional runes and marks of punctuation - straightforward
 - **Punctuation:** Opening mark ( 5|||6) and separating marks (6)
 - **Decoration:** no
 
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.1.2, p. 216](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=218)
-- [Catalogue entry — p. 349](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=351)
+- [Main discussion: section 5.1.2, p. 216](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=218)
+- [Catalogue entry: p. 349](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=351)
 - **References listed:** Gustavson 1994b, 1994c, 1994d
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

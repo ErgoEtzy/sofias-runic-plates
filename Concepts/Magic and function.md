@@ -22,7 +22,13 @@ The plate's function can involve several layers at once: the wording, the act of
 
 [[Amulets and magical objects]] / [[Spell types and formulas]] / [[Runes as writing and magical symbols]] / [[Find contexts]]
 
+## Examples
+
+- [Kvinneby amulet: inscription](https://en.wikipedia.org/wiki/Kvinneby_amulet#Inscription). A protective text whose function is argued from wording and object.
+- [Björketorp Runestone: inscription](https://en.wikipedia.org/wiki/Bj%C3%B6rketorp_Runestone#Inscription). A contrasting example built around a curse.
+
 ## Further reading
 
-- [Wikipedia: Runic magic](https://en.wikipedia.org/wiki/Runic_magic)
+- [Wikipedia: Historical evidence for runic magic](https://en.wikipedia.org/wiki/Runic_magic#Historical_evidence)
+- [Wikipedia: Epigraphic evidence](https://en.wikipedia.org/wiki/Runic_magic#Epigraphy)
 - [Swedish History Museum: Runes](https://historiska.se/utforska-historien/kunskapsbank/runor/)

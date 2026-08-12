@@ -22,7 +22,12 @@ Coordinate systems are one branch of cipher runes. Their outward forms can vary,
 
 [[Cryptic runes]] / [[Staveless runes]] / [[Unconventional runes]]
 
+## Examples
+
+- [Rök runestone: inscription](https://en.wikipedia.org/wiki/R%C3%B6k_runestone#Inscription). Combines ordinary runes with several cipher systems.
+- [Sö 47: inscription](https://en.wikipedia.org/wiki/S%C3%B6dermanland_Runic_Inscription_47#Inscription). Uses branch and ice forms of cipher runes.
+
 ## Further reading
 
-- [Wikipedia: Cipher runes](https://en.wikipedia.org/wiki/Cipher_runes)
-- [Wikipedia: Younger Futhark](https://en.wikipedia.org/wiki/Younger_Futhark)
+- [Wikipedia: Structure of cipher runes](https://en.wikipedia.org/wiki/Cipher_runes#Structure_of_the_ciphers)
+- [Wikipedia: Younger Futhark rune order](https://en.wikipedia.org/wiki/Younger_Futhark#Rune_names)

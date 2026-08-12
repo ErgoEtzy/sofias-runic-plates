@@ -35,7 +35,7 @@ No interpretation is given in the book.
 - **Other signature:** Sl 118
 - **Found:** 1927?, in the ‘St. Gertrud’ block?, Sigtuna
 - **Context:** unknown
-- **Object:** type B; copper; 58 mm long, 12–14 mm wide, 0.9 mm thick
+- **Object:** type B; copper; 58 mm long, 12-14 mm wide, 0.9 mm thick
 
 ## Runes and layout
 
@@ -56,8 +56,8 @@ No interpretation is given in the book.
 
 ## In the book
 
-- [Main discussion — section 5.2.5, p. 237](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=239)
-- [Catalogue entry — p. 358](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=360)
-- **References listed:** Gustavson (Sl 118); Gustavson & Källström 2016:14–16
+- [Main discussion: section 5.2.5, p. 237](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=239)
+- [Catalogue entry: p. 358](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=360)
+- **References listed:** Gustavson (Sl 118); Gustavson & Källström 2016:14-16
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

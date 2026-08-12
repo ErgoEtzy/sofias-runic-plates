@@ -9,7 +9,7 @@ alternative_signatures: ""
 country: "Sweden"
 corpus_region: "Swedish corpus"
 place_of_find: "Södra Kvinneby, Stenåsa parish, Öland"
-dating: "1000–1150 (lV), runological dating"
+dating: "1000-1150 (lV), runological dating"
 year_found: 1955
 find_context: "unknown"
 plate_type: "A"
@@ -24,7 +24,7 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Kvinneby plate
 
-Kvinneby plate is a copper plate found at Södra Kvinneby, Stenåsa parish, Öland. It is listed as type A. The runes date it to 1000–1150 (lV).
+Kvinneby plate is a copper plate found at Södra Kvinneby, Stenåsa parish, Öland. It is listed as type A. The runes date it to 1000-1150 (lV).
 
 The book includes an interpretation of the inscription.
 
@@ -32,7 +32,7 @@ The book includes an interpretation of the inscription.
 
 - **Catalogue no.:** 40
 - **SRD:** Öl SAS1989;43
-- **Other signature:** —
+- **Other signature:** none listed
 - **Found:** 1955, Södra Kvinneby, Stenåsa parish, Öland
 - **Context:** unknown
 - **Object:** type A; copper; 52 mm long, 49 mm wide, 1.5 mm thick
@@ -56,8 +56,8 @@ The book includes an interpretation of the inscription.
 
 ## In the book
 
-- [Main discussion — section 3.3, p. 113](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=115)
-- [Catalogue entry — p. 352](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=354)
+- [Main discussion: section 3.3, p. 113](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=115)
+- [Catalogue entry: p. 352](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=354)
 - **References listed:** Grønvik 1992; Lindquist 1987; Louis-Jensen 2005, 2006; Nilsson 1973, 1976; Westlund 1989
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

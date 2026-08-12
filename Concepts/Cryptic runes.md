@@ -22,7 +22,12 @@ A cryptic form may still encode ordinary language. This matters because difficul
 
 [[Staveless runes]] / [[Coordinate runes]] / [[Balanced runes]] / [[Bind-runes]] / [[Runes with non-graphematic branches]]
 
+## Examples
+
+- [[Plates/Sigtuna plate 2|Sigtuna plate 2]]. Staveless, twig, and bind-runes proposed in one inscription.
+- [Rök runestone: inscription](https://en.wikipedia.org/wiki/R%C3%B6k_runestone#Inscription). A documented mix of ordinary and cipher runes.
+
 ## Further reading
 
-- [Wikipedia: Cipher runes](https://en.wikipedia.org/wiki/Cipher_runes)
-- [Wikipedia: Staveless runes](https://en.wikipedia.org/wiki/Staveless_runes)
+- [Wikipedia: Structure of cipher runes](https://en.wikipedia.org/wiki/Cipher_runes#Structure_of_the_ciphers)
+- [Wikipedia: Shape of staveless runes](https://en.wikipedia.org/wiki/Staveless_runes#Shape)

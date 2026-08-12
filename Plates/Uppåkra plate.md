@@ -9,7 +9,7 @@ alternative_signatures: "Dk no: Sk 7"
 country: "Sweden"
 corpus_region: "Danish corpus (historical Denmark/Scania)"
 place_of_find: "Uppåkra, Scania"
-dating: "1000–1050 (mV), archaeological dating"
+dating: "1000-1050 (mV), archaeological dating"
 year_found: 1999
 find_context: "domestic (urban environment)"
 plate_type: "fragmentary"
@@ -24,7 +24,7 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Uppåkra plate
 
-Uppåkra plate is a bronze plate found at Uppåkra, Scania. It is listed as type fragmentary. Archaeological evidence dates it to 1000–1050 (mV).
+Uppåkra plate is a bronze plate found at Uppåkra, Scania. It is listed as type fragmentary. Archaeological evidence dates it to 1000-1050 (mV).
 
 The book includes an interpretation of the inscription.
 
@@ -56,8 +56,8 @@ The book includes an interpretation of the inscription.
 
 ## In the book
 
-- [Main discussion — section 6.2.2, p. 255](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=257)
-- [Catalogue entry — p. 364](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=366)
+- [Main discussion: section 6.2.2, p. 255](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=257)
+- [Catalogue entry: p. 364](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=366)
 - **References listed:** Stoklund 2000:8 f.
 
 [Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

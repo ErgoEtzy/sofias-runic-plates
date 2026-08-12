@@ -22,7 +22,12 @@ Keeping the steps separate makes uncertainty visible. A sign may be confidently 
 
 [[Transliteration and normalization]] / [[Runological method]] / [[Reading order and boustrophedon]]
 
+## Examples
+
+- [Sigtuna amulet I: database reading](https://en.wikipedia.org/wiki/Sigtuna_amulet_I#Scandinavian_Runic-text_Database). Separates transliteration, two normalizations, and translation.
+- [Kvinneby amulet: deciphering attempts](https://en.wikipedia.org/wiki/Kvinneby_amulet#Deciphering_attempts). Several readings developed from the same signs.
+
 ## Further reading
 
+- [Wikipedia: Transliteration versus transcription](https://en.wikipedia.org/wiki/Transliteration#Difference_from_transcription)
 - [Swedish National Heritage Board: Reading runic inscriptions](https://www.raa.se/kulturarv/runor-och-runstenar/att-lasa-runor-och-runinskrifter/)
-- [Wikipedia: Transliteration](https://en.wikipedia.org/wiki/Transliteration)

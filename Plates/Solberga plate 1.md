@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Solberga plate 1
 
-A copper runic plate from Solberga 4:11, Köpingsvik, Öland. Sofia dates it to 1050–1150 (lV), archaeological and runological dating. In the catalogue it is type B.
+Solberga plate 1 is a copper plate found at Solberga 4:11, Köpingsvik, Öland. It is listed as type B. Archaeological and runological evidence dates it to 1050–1150 (lV).
 
-The inscription is interpreted in the book.
+The book includes an interpretation of the inscription.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 41
+- **Catalogue no.:** 41
 - **SRD:** Öl Fv1976;96A
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1972, Solberga 4:11, Köpingsvik, Öland
 - **Context:** domestic (urban environment, workshop)
 - **Object:** type B; copper; 86 mm long, 19 mm wide, 1 mm thick
@@ -47,7 +47,8 @@ The inscription is interpreted in the book.
 
 ## Where it is now
 
-Now held at: SHM find ID: 1182776 (find no 1413; RAÄ no: 1533/74). Sofia examined it 3 times.
+- **Current location:** SHM find ID: 1182776 (find no 1413; RAÄ no: 1533/74)
+- **Examined by Pereswetoff-Morath:** 3 times
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: SHM find ID: 1182776 (find no 1413; RAÄ no: 1533/74). Sofia examin
 
 ## In the book
 
-The main discussion starts in section 3.4, on printed page 151: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=153). The shorter catalogue entry is on printed page 360: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=362).
+- [Main discussion — section 3.4, p. 151](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=153)
+- [Catalogue entry — p. 360](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=362)
+- **References listed:** Gustavson 1976, 2004:63–66, 2017:63–99
 
-References Sofia lists: Gustavson 1976, 2004:63–66, 2017:63–99
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

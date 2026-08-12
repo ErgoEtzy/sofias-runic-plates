@@ -24,13 +24,13 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Roskilde plate
 
-A bronze runic plate from Roskilde. Sofia dates it to 1050–1100, (lV) runological dating. In the catalogue it is type A (+copper wire).
+Roskilde plate is a bronze plate found at Roskilde. It is listed as type A (+copper wire). The catalogue dates it to 1050–1100, (lV) runological dating.
 
-The inscription is interpreted in the book.
+The book includes an interpretation of the inscription.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 5
+- **Catalogue no.:** 5
 - **SRD:** DR 246
 - **Other signature:** DK no: Sj 27
 - **Found:** 1866, Roskilde
@@ -47,7 +47,8 @@ The inscription is interpreted in the book.
 
 ## Where it is now
 
-Now held at: KNM: D 29. Sofia examined it once.
+- **Current location:** KNM: D 29
+- **Examined by Pereswetoff-Morath:** once
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: KNM: D 29. Sofia examined it once.
 
 ## In the book
 
-The main discussion starts in section 6.1.2, on printed page 249: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=251). The shorter catalogue entry is on printed page 355: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=357).
+- [Main discussion — section 6.1.2, p. 249](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=251)
+- [Catalogue entry — p. 355](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=357)
+- **References listed:** Jacobsen & Moltke in DRI, DR 246; Lindquist 1932:66 f., fn.1; Steenholt Olesen 2007:94–98; Stephens 1867–68:864
 
-References Sofia lists: Jacobsen & Moltke in DRI, DR 246; Lindquist 1932:66 f., fn.1; Steenholt Olesen 2007:94–98; Stephens 1867–68:864
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

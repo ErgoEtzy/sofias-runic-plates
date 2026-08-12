@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Gamla Uppsala plate 2
 
-A copper runic plate from Gamla (Old) Uppsala, Uppland. Sofia dates it to V, runological dating. In the catalogue it is type B.
+Gamla Uppsala plate 2 is a copper plate found at Gamla (Old) Uppsala, Uppland. It is listed as type B. The runes date it to V.
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 21
+- **Catalogue no.:** 21
 - **SRD:** no signature
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 2012, Gamla (Old) Uppsala, Uppland
 - **Context:** domestic
 - **Object:** type B; copper; 61 mm long (when straightened), 24–26 mm wide, 1 mm thick
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: ‘Arkeologerna’ SHM; find no: 2055; context: 35 8398; find unit: 35 9227. Sofia examined it once.
+- **Current location:** ‘Arkeologerna’ SHM; find no: 2055; context: 35 8398; find unit: 35 9227
+- **Examined by Pereswetoff-Morath:** once
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: ‘Arkeologerna’ SHM; find no: 2055; context: 35 8398; find unit:
 
 ## In the book
 
-The main discussion starts in section 5.2.1, on printed page 229: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=231). The shorter catalogue entry is on printed page 345: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=347).
+- [Main discussion — section 5.2.1, p. 229](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=231)
+- [Catalogue entry — p. 345](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=347)
+- **References listed:** Källström 2017b
 
-References Sofia lists: Källström 2017b
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

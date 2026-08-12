@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Ulvsunda plate
 
-A bronze runic plate from Ulvsunda, Uppland. Sofia dates it to 800s (eV), archaeological and runological dating. In the catalogue it is type B.
+Ulvsunda plate is a bronze plate found at Ulvsunda, Uppland. It is listed as type B. Archaeological and runological evidence dates it to 800s (eV).
 
-The inscription is interpreted in the book.
+The book includes an interpretation of the inscription.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 31
+- **Catalogue no.:** 31
 - **SRD:** U AST1;150
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1939, Ulvsunda, Uppland
 - **Context:** grave (pre-Christian, female’s?)
 - **Object:** type B; bronze; 16.5 mm long, 9.5 mm wide, 0.3 mm thick
@@ -47,7 +47,8 @@ The inscription is interpreted in the book.
 
 ## Where it is now
 
-Now held at: SHM 22695. Sofia examined it 4 times.
+- **Current location:** SHM 22695
+- **Examined by Pereswetoff-Morath:** 4 times
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: SHM 22695. Sofia examined it 4 times.
 
 ## In the book
 
-The main discussion starts in section 4.1, on printed page 171: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=173). The shorter catalogue entry is on printed page 364: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=366).
+- [Main discussion — section 4.1, p. 171](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=173)
+- [Catalogue entry — p. 364](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=366)
+- **References listed:** Nordén 1943:146–154
 
-References Sofia lists: Nordén 1943:146–154
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

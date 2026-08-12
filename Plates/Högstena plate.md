@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Högstena plate
 
-A bronze runic plate from Högstena church cemetery, Västergötland. Sofia dates it to 1050–1150 (lV), runological dating. In the catalogue it is type B, broken into two parts (C?).
+Högstena plate is a bronze plate found at Högstena church cemetery, Västergötland. It is listed as type B, broken into two parts (C?). The runes date it to 1050–1150 (lV).
 
-The inscription is interpreted in the book.
+The book includes an interpretation of the inscription.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 35
+- **Catalogue no.:** 35
 - **SRD:** Vg 216
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1920, Högstena church cemetery, Västergötland
 - **Context:** grave
 - **Object:** type B, broken into two parts (C?); bronze; 88 mm (71+17) long, 19–20 mm wide, 1.3–1.4 mm thick
@@ -47,7 +47,8 @@ The inscription is interpreted in the book.
 
 ## Where it is now
 
-Now held at: SHM 16449. Sofia examined it 3 times.
+- **Current location:** SHM 16449
+- **Examined by Pereswetoff-Morath:** 3 times
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: SHM 16449. Sofia examined it 3 times.
 
 ## In the book
 
-The main discussion starts in section 4.3, on printed page 179: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=181). The shorter catalogue entry is on printed page 350: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=352).
+- [Main discussion — section 4.3, p. 179](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=181)
+- [Catalogue entry — p. 350](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=352)
+- **References listed:** Jungner 1936; Nordén 1943:175–177; Strid 1994; Svärdström 1967; Svärdström in VgR, Vg 216
 
-References Sofia lists: Jungner 1936; Nordén 1943:175–177; Strid 1994; Svärdström 1967; Svärdström in VgR, Vg 216
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

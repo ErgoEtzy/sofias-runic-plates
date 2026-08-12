@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Gällungs plate 1
 
-A bronze runic plate from Gällungs, Gotland. Sofia dates it to 900s (eV). In the catalogue it is type C, roll.
+Gällungs plate 1 is a bronze plate found at Gällungs, Gotland. It is listed as type C, roll. The catalogue dates it to 900s (eV).
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 13
+- **Catalogue no.:** 13
 - **SRD:** G 261
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1973, Gällungs, Gotland
 - **Context:** grave
 - **Object:** type C, roll; bronze; 80 mm long when straightened, 14 mm wide, 10 mm diameter
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: SHM 32391. Sofia examined it once.
+- **Current location:** SHM 32391
+- **Examined by Pereswetoff-Morath:** once
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: SHM 32391. Sofia examined it once.
 
 ## In the book
 
-The main discussion starts in section 5.3.1, on printed page 241: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=243). The shorter catalogue entry is on printed page 347: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=349).
+- [Main discussion — section 5.3.1, p. 241](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=243)
+- [Catalogue entry — p. 347](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=349)
+- **References listed:** Snædal in GR 3, G 261
 
-References Sofia lists: Snædal in GR 3, G 261
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

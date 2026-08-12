@@ -8,12 +8,12 @@ tags: ["runes/concept", "sofia-pereswetoff-morath"]
 
 # Reading and interpretation
 
-Sofia keeps these two steps separate. A *reading* identifies the rune shapes and transliterates them. An *interpretation* goes further: it turns the text into normalized Old Scandinavian, translates it, and explains the language. So a plate can have a suggested reading without having a settled interpretation.
+The book treats these as separate steps. A *reading* identifies and transliterates the rune shapes. An *interpretation* also normalizes the text into Old Scandinavian, translates it, and explains the language. A plate can therefore have a suggested reading without a settled interpretation.
 
 ## See also
 
 [[Runic plates]]
 
-## Where Sofia discusses this
+## In the book
 
-[Book p. 31](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=33) / [book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)
+[Book p. 31](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=33) / [book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

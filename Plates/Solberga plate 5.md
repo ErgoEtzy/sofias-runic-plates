@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Solberga plate 5
 
-A copper runic plate from Solberga 4:11, Köpingsvik, Öland. Sofia dates it to V. In the catalogue it is type A (+wire).
+Solberga plate 5 is a copper plate found at Solberga 4:11, Köpingsvik, Öland. It is listed as type A (+wire). The catalogue dates it to V.
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 45
+- **Catalogue no.:** 45
 - **SRD:** no signature
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1972, Solberga 4:11, Köpingsvik, Öland
 - **Context:** domestic (urban environment)
 - **Object:** type A (+wire); copper; 39–40 mm long, 12–14 mm wide, 1 mm thick
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: County Museum of Kalmar, find no 1545; RAÄ no: 533/74. Sofia examined it once.
+- **Current location:** County Museum of Kalmar, find no 1545; RAÄ no: 533/74
+- **Examined by Pereswetoff-Morath:** once
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: County Museum of Kalmar, find no 1545; RAÄ no: 533/74. Sofia exami
 
 ## In the book
 
-The main discussion starts in section 5.1.7, on printed page 227: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=229). The shorter catalogue entry is on printed page 363: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=365).
+- [Main discussion — section 5.1.7, p. 227](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=229)
+- [Catalogue entry — p. 363](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=365)
+- **References listed:** Gustavson 2004:67 f.
 
-References Sofia lists: Gustavson 2004:67 f.
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

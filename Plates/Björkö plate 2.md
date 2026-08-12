@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Björkö plate 2
 
-A bronze runic plate from fort (The Garrison), Birka, Uppland. Sofia dates it to 900s (eV), archaeological dating. In the catalogue it is type A (+copper wire).
+Björkö plate 2 is a bronze plate found at fort (The Garrison), Birka, Uppland. It is listed as type A (+copper wire). Archaeological evidence dates it to 900s (eV).
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 19
+- **Catalogue no.:** 19
 - **SRD:** U NOR2002;28
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 2002, fort (The Garrison), Birka, Uppland
 - **Context:** domestic (urban environment, fortification)
 - **Object:** type A (+copper wire); bronze; 21 mm long, 8–9.5 mm wide, 0.5 mm thick
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: ARL; find no 7038; RAÄ no: 35. Sofia examined it once.
+- **Current location:** ARL; find no 7038; RAÄ no: 35
+- **Examined by Pereswetoff-Morath:** once
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: ARL; find no 7038; RAÄ no: 35. Sofia examined it once.
 
 ## In the book
 
-The main discussion starts in section 5.1.3, on printed page 219: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=221). The shorter catalogue entry is on printed page 343: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=345).
+- [Main discussion — section 5.1.3, p. 219](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=221)
+- [Catalogue entry — p. 343](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=345)
+- **References listed:** Gustavson 2002a (photo), 2002b, 2009a (photo)
 
-References Sofia lists: Gustavson 2002a (photo), 2002b, 2009a (photo)
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

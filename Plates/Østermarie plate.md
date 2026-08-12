@@ -24,13 +24,13 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Østermarie plate
 
-A silver runic plate from Englyst, Bornholm. Sofia dates it to 1000–1125 (lV), archaeological and runological dating. In the catalogue it is type A, fragmentary.
+Østermarie plate is a silver plate found at Englyst, Bornholm. It is listed as type A, fragmentary. Archaeological and runological evidence dates it to 1000–1125 (lV).
 
-The inscription is interpreted in the book.
+The book includes an interpretation of the inscription.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 4
+- **Catalogue no.:** 4
 - **SRD:** DR AUD1999;288
 - **Other signature:** DK no: Bh 58
 - **Found:** 1998, Englyst, Bornholm
@@ -47,7 +47,8 @@ The inscription is interpreted in the book.
 
 ## Where it is now
 
-Now held at: NM: D 10/2000. Sofia examined it once.
+- **Current location:** NM: D 10/2000
+- **Examined by Pereswetoff-Morath:** once
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: NM: D 10/2000. Sofia examined it once.
 
 ## In the book
 
-The main discussion starts in section 6.1.1, on printed page 247: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=249). The shorter catalogue entry is on printed page 366: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=368).
+- [Main discussion — section 6.1.1, p. 247](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=249)
+- [Catalogue entry — p. 366](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=368)
+- **References listed:** Källström 2007a:168, 341; Steenholt Olesen 2007:86–94; Stoklund 1999:299–305, 2000:4–6, 2003:863–867
 
-References Sofia lists: Källström 2007a:168, 341; Steenholt Olesen 2007:86–94; Stoklund 1999:299–305, 2000:4–6, 2003:863–867
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

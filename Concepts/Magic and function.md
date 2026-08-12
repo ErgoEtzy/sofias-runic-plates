@@ -8,12 +8,12 @@ tags: ["runes/concept", "sofia-pereswetoff-morath"]
 
 # Magic and function
 
-Most of the readable plates look like spells telling someone or something to act. There are also ritual formulas and words meant to drive something away. Sofia places the inscriptions in a magical setting, but she does not treat every unusual rune shape as a magical symbol in its own right.
+Most of the readable plates appear to contain spells that tell someone or something to act. Ritual formulas and words meant to drive something away also occur. The inscriptions belong in a magical setting, although an unusual rune shape is not automatically a magical symbol.
 
 ## See also
 
 [[Runic plates]] / [[Reading and interpretation]]
 
-## Where Sofia discusses this
+## In the book
 
-[Book p. 307](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=309) / [book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)
+[Book p. 307](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=309) / [book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

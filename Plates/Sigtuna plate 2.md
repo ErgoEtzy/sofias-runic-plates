@@ -24,13 +24,13 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Sigtuna plate 2
 
-A copper runic plate from in the ‘Humlegården’ block, Sigtuna, Uppland. Sofia dates it to 1000–1199 (lV), runological dating. In the catalogue it is type C.
+Sigtuna plate 2 is a copper plate found at the ‘Humlegården’ block, Sigtuna, Uppland. It is listed as type C. The runes date it to 1000–1199 (lV).
 
-The inscription is interpreted in the book.
+The book includes an interpretation of the inscription.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 25
+- **Catalogue no.:** 25
 - **SRD:** U AST1;166
 - **Other signature:** Sl 3
 - **Found:** 1927, in the ‘Humlegården’ block, Sigtuna, Uppland
@@ -47,7 +47,8 @@ The inscription is interpreted in the book.
 
 ## Where it is now
 
-Now held at: SF 1305:2. Sofia examined it 4 times.
+- **Current location:** SF 1305:2
+- **Examined by Pereswetoff-Morath:** 4 times
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: SF 1305:2. Sofia examined it 4 times.
 
 ## In the book
 
-The main discussion starts in section 4.8, on printed page 207: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=209). The shorter catalogue entry is on printed page 356: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=358).
+- [Main discussion — section 4.8, p. 207](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=209)
+- [Catalogue entry — p. 356](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=358)
+- **References listed:** Nordén 1943:154–170; Svärdström 1969a:37 fn. 2; Gustavson 2014; Gustavson & Källström 2016:21 f.
 
-References Sofia lists: Nordén 1943:154–170; Svärdström 1969a:37 fn. 2; Gustavson 2014; Gustavson & Källström 2016:21 f.
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

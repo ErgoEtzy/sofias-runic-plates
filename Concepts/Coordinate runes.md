@@ -8,12 +8,12 @@ tags: ["runes/concept", "sofia-pereswetoff-morath"]
 
 # Coordinate runes
 
-Coordinate runes work like an address. One number gives the futhark family (*ætt*); another gives the rune's place inside that family. The numbers can be drawn in several different ways.
+Coordinate runes work like an address. One number identifies the futhark family (*ætt*), and another gives the rune's place within that family. The same system can be drawn in several ways.
 
 ## See also
 
 [[Unconventional runes]]
 
-## Where Sofia discusses this
+## In the book
 
-[Book p. 57](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=59) / [book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)
+[Book p. 57](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=59) / [book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

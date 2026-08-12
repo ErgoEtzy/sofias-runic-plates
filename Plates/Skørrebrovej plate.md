@@ -24,13 +24,13 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Skørrebrovej plate
 
-A bronze runic plate from Skørrebrovej, Bornholm. Sofia dates it to 1000–1150 (lV), runological dating. In the catalogue it is type fragmentary.
+Skørrebrovej plate is a bronze plate found at Skørrebrovej, Bornholm. It is listed as type fragmentary. The runes date it to 1000–1150 (lV).
 
-The inscription is interpreted in the book.
+The book includes an interpretation of the inscription.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 3
+- **Catalogue no.:** 3
 - **SRD:** DR DKBh63
 - **Other signature:** DK no: Bh 63
 - **Found:** 2005, Skørrebrovej, Bornholm
@@ -47,7 +47,8 @@ The inscription is interpreted in the book.
 
 ## Where it is now
 
-Now held at: KNM: D 199/2006. Sofia examined it 2 times.
+- **Current location:** KNM: D 199/2006
+- **Examined by Pereswetoff-Morath:** 2 times
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: KNM: D 199/2006. Sofia examined it 2 times.
 
 ## In the book
 
-The main discussion starts in section 6.2.1, on printed page 254: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=256). The shorter catalogue entry is on printed page 360: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=362).
+- [Main discussion — section 6.2.1, p. 254](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=256)
+- [Catalogue entry — p. 360](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=362)
+- **References listed:** Lisbeth Imer in DK (see under internet sources)
 
-References Sofia lists: Lisbeth Imer in DK (see under internet sources)
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

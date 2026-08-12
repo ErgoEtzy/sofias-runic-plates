@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Hallbjäns plate
 
-A copper runic plate from Hallbjäns, Gotland. Sofia dates it to 700–750 (eV), archaeological dating. In the catalogue it is type A.
+Hallbjäns plate is a copper plate found at Hallbjäns, Gotland. It is listed as type A. Archaeological evidence dates it to 700–750 (eV).
 
-The inscription is interpreted in the book.
+The book includes an interpretation of the inscription.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 15
+- **Catalogue no.:** 15
 - **SRD:** G 361
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1965, Hallbjäns, Gotland
 - **Context:** grave
 - **Object:** type A; copper; 41.3 mm long, 10.4 mm wide, 0.6 mm thick
@@ -47,7 +47,8 @@ The inscription is interpreted in the book.
 
 ## Where it is now
 
-Now held at: SHM 32403:16 (since 2014 on a travelling exhibition which will return in 2019). Sofia examined it once.
+- **Current location:** SHM 32403:16 (since 2014 on a travelling exhibition which will return in 2019)
+- **Examined by Pereswetoff-Morath:** once
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: SHM 32403:16 (since 2014 on a travelling exhibition which will retu
 
 ## In the book
 
-The main discussion starts in section 3.1, on printed page 67: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=69). The shorter catalogue entry is on printed page 348: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=350).
+- [Main discussion — section 3.1, p. 67](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=69)
+- [Catalogue entry — p. 348](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=350)
+- **References listed:** Birkmann 1995:227–229; Gustavson & Snædal Brink 1981: 186–191; Gustavson & Snædal in GR 3, G 361; Snædal 2002:43
 
-References Sofia lists: Birkmann 1995:227–229; Gustavson & Snædal Brink 1981: 186–191; Gustavson & Snædal in GR 3, G 361; Snædal 2002:43
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

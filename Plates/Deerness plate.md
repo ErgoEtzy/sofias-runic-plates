@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Deerness plate
 
-A copper runic plate from Brough of Deerness, parish of St Andrews and Deerness, Mainland Orkney, Scotland, British Isles. Sofia dates it to 1000–1150 (lV), archaeological dating. In the catalogue it is type A.
+Deerness plate is a copper plate found at Brough of Deerness, parish of St Andrews and Deerness, Mainland Orkney, Scotland, British Isles. It is listed as type A. Archaeological evidence dates it to 1000–1150 (lV).
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 1
+- **Catalogue no.:** 1
 - **SRD:** Or 21
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 2009, Brough of Deerness, parish of St Andrews and Deerness, Mainland Orkney, Scotland, British Isles
 - **Context:** domestic (fortification)
 - **Object:** type A; copper; 65 mm long, 9–10 mm wide, 1 mm thick
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: McDonald Institute for Archaeological Research, Cambridge; find no: 3052. Sofia examined it once.
+- **Current location:** McDonald Institute for Archaeological Research, Cambridge; find no: 3052
+- **Examined by Pereswetoff-Morath:** once
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: McDonald Institute for Archaeological Research, Cambridge; find no:
 
 ## In the book
 
-The main discussion starts in section 7.1, on printed page 263: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=265). The shorter catalogue entry is on printed page 344: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=346).
+- [Main discussion — section 7.1, p. 263](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=265)
+- [Catalogue entry — p. 344](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=346)
+- **References listed:** Gerrard & al. 2010; Hines 2013
 
-References Sofia lists: Gerrard & al. 2010; Hines 2013
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Hovgård plate
 
-A bronze runic plate from Hovgården, Alsnö House, Adelsö parish, Uppland. Sofia dates it to 900s (eV), archaeological and runological dating. In the catalogue it is type A (+silver wire).
+Hovgård plate is a bronze plate found at Hovgården, Alsnö House, Adelsö parish, Uppland. It is listed as type A (+silver wire). Archaeological and runological evidence dates it to 900s (eV).
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 17
+- **Catalogue no.:** 17
 - **SRD:** U NOR1994;26A
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1993, Hovgården, Alsnö House, Adelsö parish, Uppland
 - **Context:** domestic
 - **Object:** type A (+silver wire); bronze; 60 mm long, 14 mm wide, 1 mm thick
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: SHM 35224. Sofia examined it 2 times.
+- **Current location:** SHM 35224
+- **Examined by Pereswetoff-Morath:** 2 times
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: SHM 35224. Sofia examined it 2 times.
 
 ## In the book
 
-The main discussion starts in section 5.1.2, on printed page 216: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=218). The shorter catalogue entry is on printed page 349: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=351).
+- [Main discussion — section 5.1.2, p. 216](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=218)
+- [Catalogue entry — p. 349](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=351)
+- **References listed:** Gustavson 1994b, 1994c, 1994d
 
-References Sofia lists: Gustavson 1994b, 1994c, 1994d
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

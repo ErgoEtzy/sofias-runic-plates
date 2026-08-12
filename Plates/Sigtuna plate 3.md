@@ -24,13 +24,13 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Sigtuna plate 3
 
-A recorded as both copper and bronze runic plate from in the ‘Humlegården’ block, Sigtuna, Uppland. Sofia dates it to V. In the catalogue it is type fragmentary.
+Sigtuna plate 3 is a recorded as both copper and bronze plate found at the ‘Humlegården’ block, Sigtuna, Uppland. It is listed as type fragmentary. The catalogue dates it to V.
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 26
+- **Catalogue no.:** 26
 - **SRD:** U AST1;171
 - **Other signature:** Sl 4
 - **Found:** 1927, in the ‘Humlegården’ block, Sigtuna, Uppland
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: SF 1305:1. Sofia examined it 2 times.
+- **Current location:** SF 1305:1
+- **Examined by Pereswetoff-Morath:** 2 times
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: SF 1305:1. Sofia examined it 2 times.
 
 ## In the book
 
-The main discussion starts in section 5.2.2, on printed page 230: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=232). The shorter catalogue entry is on printed page 357: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=359).
+- [Main discussion — section 5.2.2, p. 230](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=232)
+- [Catalogue entry — p. 357](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=359)
+- **References listed:** Nordén 1943:170 f.; Gustavson 2013; Gustavson & Källström 2016:22
 
-References Sofia lists: Nordén 1943:170 f.; Gustavson 2013; Gustavson & Källström 2016:22
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

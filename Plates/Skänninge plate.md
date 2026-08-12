@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Skänninge plate
 
-A copper alloy (bronze?) runic plate from in the ‘Abbedissan’ block, Motalagatan 24, Skänninge, Östergötland. Sofia dates it to 1000–1150 (lV), archaeological and runological dating. In the catalogue it is type fragmentary.
+Skänninge plate is a copper alloy (bronze?) plate found at the ‘Abbedissan’ block, Motalagatan 24, Skänninge, Östergötland. It is listed as type fragmentary. Archaeological and runological evidence dates it to 1000–1150 (lV).
 
-The inscription is interpreted in the book.
+The book includes an interpretation of the inscription.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 46
+- **Catalogue no.:** 46
 - **SRD:** Ög NOR2001;32
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 2000, in the ‘Abbedissan’ block, Motalagatan 24, Skänninge, Östergötland
 - **Context:** domestic (urban environment)
 - **Object:** type fragmentary; copper alloy (bronze?); 36 mm long, 14 mm wide, 1 mm thick
@@ -47,7 +47,8 @@ The inscription is interpreted in the book.
 
 ## Where it is now
 
-Now held at: Museum of Östergötland: C4145:315. Sofia did not examine it.
+- **Current location:** Museum of Östergötland: C4145:315
+- **Examined by Pereswetoff-Morath:** no
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: Museum of Östergötland: C4145:315. Sofia did not examine it.
 
 ## In the book
 
-The main discussion starts in section 4.5, on printed page 201: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=203). The shorter catalogue entry is on printed page 359: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=361).
+- [Main discussion — section 4.5, p. 201](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=203)
+- [Catalogue entry — p. 359](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=361)
+- **References listed:** Björkhager & Gustavson 2002:183–194; Gustavson 2001:32; Källström 2007a:356
 
-References Sofia lists: Björkhager & Gustavson 2002:183–194; Gustavson 2001:32; Källström 2007a:356
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

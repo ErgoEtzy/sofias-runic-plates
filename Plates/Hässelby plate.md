@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Hässelby plate
 
-A bronze runic plate from Hässelby, Börje parish, Uppland. Sofia dates it to 1000s (mV), archaeological dating. In the catalogue it is type C, fragmentary, pendant.
+Hässelby plate is a bronze plate found at Hässelby, Börje parish, Uppland. It is listed as type C, fragmentary, pendant. Archaeological evidence dates it to 1000s (mV).
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 22
+- **Catalogue no.:** 22
 - **SRD:** U FJÖLNIR1985:2;28
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1984, Hässelby, Börje parish, Uppland
 - **Context:** grave
 - **Object:** type C, fragmentary, pendant; bronze; reconstructed length of 70 mm, reconstructed width of 20 mm, 0.5 mm thick
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: County Museum of Uppland, site 151; find no: 142:73. Sofia examined it once.
+- **Current location:** County Museum of Uppland, site 151; find no: 142:73
+- **Examined by Pereswetoff-Morath:** once
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: County Museum of Uppland, site 151; find no: 142:73. Sofia examined
 
 ## In the book
 
-The main discussion starts in section 5.3.2, on printed page 243: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=245). The shorter catalogue entry is on printed page 350: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=352).
+- [Main discussion — section 5.3.2, p. 243](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=245)
+- [Catalogue entry — p. 350](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=352)
+- **References listed:** Karlenby 1985
 
-References Sofia lists: Karlenby 1985
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

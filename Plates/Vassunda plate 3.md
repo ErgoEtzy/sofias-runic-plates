@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Vassunda plate 3
 
-A copper runic plate from Vassunda rectory, Uppland. Sofia dates it to V. In the catalogue it is type B.
+Vassunda plate 3 is a copper plate found at Vassunda rectory, Uppland. It is listed as type B. The catalogue dates it to V.
 
-The inscription is interpreted in the book.
+The book includes an interpretation of the inscription.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 32
+- **Catalogue no.:** 32
 - **SRD:** U AST1;183
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1925, Vassunda rectory, Uppland
 - **Context:** grave (Christian)
 - **Object:** type B; copper; 48 mm long, 34 mm wide, 0.5 mm thick
@@ -47,7 +47,8 @@ The inscription is interpreted in the book.
 
 ## Where it is now
 
-Now held at: Museum of Nordic Archaeology in Uppsala: 5711:3. Sofia examined it 2 times.
+- **Current location:** Museum of Nordic Archaeology in Uppsala: 5711:3
+- **Examined by Pereswetoff-Morath:** 2 times
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: Museum of Nordic Archaeology in Uppsala: 5711:3. Sofia examined it 
 
 ## In the book
 
-The main discussion starts in section 4.7, on printed page 204: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=206). The shorter catalogue entry is on printed page 365: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=367).
+- [Main discussion — section 4.7, p. 204](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=206)
+- [Catalogue entry — p. 365](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=367)
+- **References listed:** Nordén 1943:183–186
 
-References Sofia lists: Nordén 1943:183–186
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

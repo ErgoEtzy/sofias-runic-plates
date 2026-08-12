@@ -24,13 +24,13 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Sigtuna plate 4
 
-A recorded as both copper and bronze runic plate from in the ‘Granhäcken’ block, Sigtuna, Uppland. Sofia dates it to 1000–1150 (lV), archaeological dating. In the catalogue it is type fragmentary.
+Sigtuna plate 4 is a recorded as both copper and bronze plate found at the ‘Granhäcken’ block, Sigtuna, Uppland. It is listed as type fragmentary. Archaeological evidence dates it to 1000–1150 (lV).
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 27
+- **Catalogue no.:** 27
 - **SRD:** U Fv1986;220B
 - **Other signature:** Sl 13
 - **Found:** 1985, in the ‘Granhäcken’ block, Sigtuna, Uppland
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: SF find no:182. Sofia examined it 3 times.
+- **Current location:** SF find no:182
+- **Examined by Pereswetoff-Morath:** 3 times
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: SF find no:182. Sofia examined it 3 times.
 
 ## In the book
 
-The main discussion starts in section 5.2.3, on printed page 231: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=233). The shorter catalogue entry is on printed page 357: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=359).
+- [Main discussion — section 5.2.3, p. 231](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=233)
+- [Catalogue entry — p. 357](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=359)
+- **References listed:** Gustavson 2014; Gustavson & Åhlén 1986:11; Strid & Åhlén 1986:220; Gustavson & Källström 2016:22–23
 
-References Sofia lists: Gustavson 2014; Gustavson & Åhlén 1986:11; Strid & Åhlén 1986:220; Gustavson & Källström 2016:22–23
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

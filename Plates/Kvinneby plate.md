@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Kvinneby plate
 
-A copper runic plate from Södra Kvinneby, Stenåsa parish, Öland. Sofia dates it to 1000–1150 (lV), runological dating. In the catalogue it is type A.
+Kvinneby plate is a copper plate found at Södra Kvinneby, Stenåsa parish, Öland. It is listed as type A. The runes date it to 1000–1150 (lV).
 
-The inscription is interpreted in the book.
+The book includes an interpretation of the inscription.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 40
+- **Catalogue no.:** 40
 - **SRD:** Öl SAS1989;43
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1955, Södra Kvinneby, Stenåsa parish, Öland
 - **Context:** unknown
 - **Object:** type A; copper; 52 mm long, 49 mm wide, 1.5 mm thick
@@ -47,7 +47,8 @@ The inscription is interpreted in the book.
 
 ## Where it is now
 
-Now held at: SHM 25654. Sofia examined it 5 times.
+- **Current location:** SHM 25654
+- **Examined by Pereswetoff-Morath:** 5 times
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: SHM 25654. Sofia examined it 5 times.
 
 ## In the book
 
-The main discussion starts in section 3.3, on printed page 113: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=115). The shorter catalogue entry is on printed page 352: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=354).
+- [Main discussion — section 3.3, p. 113](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=115)
+- [Catalogue entry — p. 352](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=354)
+- **References listed:** Grønvik 1992; Lindquist 1987; Louis-Jensen 2005, 2006; Nilsson 1973, 1976; Westlund 1989
 
-References Sofia lists: Grønvik 1992; Lindquist 1987; Louis-Jensen 2005, 2006; Nilsson 1973, 1976; Westlund 1989
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

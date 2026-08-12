@@ -24,13 +24,13 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Gyldensgård plate
 
-A bronze runic plate from Gyldensgård, Østermarie parish, Bornholm. Sofia dates it to 1050–1199 (lV), archaeological dating. In the catalogue it is type fragmentary.
+Gyldensgård plate is a bronze plate found at Gyldensgård, Østermarie parish, Bornholm. It is listed as type fragmentary. Archaeological evidence dates it to 1050–1199 (lV).
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 2
+- **Catalogue no.:** 2
 - **SRD:** DR NOR2004;8
 - **Other signature:** DK no: Bh 60
 - **Found:** 2002, Gyldensgård, Østermarie parish, Bornholm
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: owned by KNM:D 272/2004, kept at Bornholm museum: 3195x3. Sofia examined it once.
+- **Current location:** owned by KNM:D 272/2004, kept at Bornholm museum: 3195x3
+- **Examined by Pereswetoff-Morath:** once
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: owned by KNM:D 272/2004, kept at Bornholm museum: 3195x3. Sofia exa
 
 ## In the book
 
-The main discussion starts in section 6.4.3, on printed page 260: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=262). The shorter catalogue entry is on printed page 347: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=349).
+- [Main discussion — section 6.4.3, p. 260](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=262)
+- [Catalogue entry — p. 347](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=349)
+- **References listed:** Stoklund & al. (2004b:7–8); Steenholt Olesen 2010 (photo p. 164)
 
-References Sofia lists: Stoklund & al. (2004b:7–8); Steenholt Olesen 2010 (photo p. 164)
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

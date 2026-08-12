@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Sunnerby plate
 
-A copper runic plate from Sunnerby, Otterstad parish on Kållandsö, Västergö tland (Sunnerby 9:1, site RAÄ 57). Sofia dates it to V. In the catalogue it is type A, fragmentary.
+Sunnerby plate is a copper plate found at Sunnerby, Otterstad parish on Kållandsö, Västergö tland (Sunnerby 9:1, site RAÄ 57). It is listed as type A, fragmentary. The catalogue dates it to V.
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 36
+- **Catalogue no.:** 36
 - **SRD:** no signature
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 2012, Sunnerby, Otterstad parish on Kållandsö, Västergö tland (Sunnerby 9:1, site RAÄ 57)
 - **Context:** domestic
 - **Object:** type A, fragmentary; copper; 23 mm long, 22–23 mm wide, 0.8 mm thick
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: Väner Museum, find no 299. Sofia did not examine it.
+- **Current location:** Väner Museum, find no 299
+- **Examined by Pereswetoff-Morath:** no
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: Väner Museum, find no 299. Sofia did not examine it.
 
 ## In the book
 
-The main discussion starts in section 5.1.5, on printed page 224: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=226). The shorter catalogue entry is on printed page 363: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=365).
+- [Main discussion — section 5.1.5, p. 224](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=226)
+- [Catalogue entry — p. 363](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=365)
+- **References listed:** Källström 2014b
 
-References Sofia lists: Källström 2014b
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

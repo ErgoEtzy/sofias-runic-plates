@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Östra Aros plate
 
-A bronze runic plate from St. Peter’s church ruin, Uppsala. Sofia dates it to end of 1000s–1100s (lV), archaeological and runological dating. In the catalogue it is type C.
+Östra Aros plate is a bronze plate found at St. Peter’s church ruin, Uppsala. It is listed as type C. Archaeological and runological evidence dates it to end of 1000s–1100s (lV).
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 34
+- **Catalogue no.:** 34
 - **SRD:** U Uppl1969;32
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1969, St. Peter’s church ruin, Uppsala
 - **Context:** grave (Christian)
 - **Object:** type C; bronze; 36 mm long (straightened), 29 mm wide, 0.5 mm thick
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: County Museum of Uppland: 13000:241. Sofia did not examine it (missing from County Museum of Uppland).
+- **Current location:** County Museum of Uppland: 13000:241
+- **Examined by Pereswetoff-Morath:** no — missing from County Museum of Uppland
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: County Museum of Uppland: 13000:241. Sofia did not examine it (miss
 
 ## In the book
 
-The main discussion starts in section 5.3.3, on printed page 245: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=247). The shorter catalogue entry is on printed page 366: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=368).
+- [Main discussion — section 5.3.3, p. 245](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=247)
+- [Catalogue entry — p. 366](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=368)
+- **References listed:** Svärdström 1969a, 1969b
 
-References Sofia lists: Svärdström 1969a, 1969b
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

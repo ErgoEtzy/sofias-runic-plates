@@ -1,4 +1,4 @@
-# Sofia's Viking-Age runic plates
+# Viking-Age runic plates
 
 An Obsidian-friendly set of notes for the 46 plates catalogued in Sofia Pereswetoff-Morath's *Viking-Age Runic Plates: Readings and Interpretations* (2019).
 
@@ -21,4 +21,4 @@ To use the page links locally, place a legally obtained copy named `Sofia_Peresw
 
 ## Obsidian
 
-Open this folder as a vault, or place it inside an existing vault. The notes work without plugins. 
+Open this folder as a vault, or place it inside an existing vault. The notes work without plugins.

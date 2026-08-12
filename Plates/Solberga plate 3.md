@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Solberga plate 3
 
-A copper runic plate from Solberga 4:8, Köpingsvik, Öland. Sofia dates it to V. In the catalogue it is type A.
+Solberga plate 3 is a copper plate found at Solberga 4:8, Köpingsvik, Öland. It is listed as type A. The catalogue dates it to V.
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 43
+- **Catalogue no.:** 43
 - **SRD:** Öl ATA6371/83
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1983, Solberga 4:8, Köpingsvik, Öland
 - **Context:** domestic (urban environment)
 - **Object:** type A; copper; 44 mm long, 26 mm wide, 1 mm thick
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: County Museum of Kalmar?, registration number 6371/83. Sofia examined it once.
+- **Current location:** County Museum of Kalmar?, registration number 6371/83
+- **Examined by Pereswetoff-Morath:** once
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: County Museum of Kalmar?, registration number 6371/83. Sofia examin
 
 ## In the book
 
-The main discussion starts in section 5.1.7, on printed page 227: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=229). The shorter catalogue entry is on printed page 362: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=364).
+- [Main discussion — section 5.1.7, p. 227](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=229)
+- [Catalogue entry — p. 362](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=364)
+- **References listed:** Gustavson 2004:68
 
-References Sofia lists: Gustavson 2004:68
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

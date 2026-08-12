@@ -24,13 +24,13 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Lund plate 1
 
-A most probably copper alloy runic plate from Lund, Scania. Sofia dates it to 1000s (mV), archaeological dating. In the catalogue it is type A (+ metal plaque).
+Lund plate 1 is a most probably copper alloy plate found at Lund, Scania. It is listed as type A (+ metal plaque). Archaeological evidence dates it to 1000s (mV).
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 6
+- **Catalogue no.:** 6
 - **SRD:** DR Fv1993;226
 - **Other signature:** DK no: SkL 74
 - **Found:** 1990, Lund, Scania
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: Lund Museum of Cultural History: 76420:172. Sofia examined it once.
+- **Current location:** Lund Museum of Cultural History: 76420:172
+- **Examined by Pereswetoff-Morath:** once
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: Lund Museum of Cultural History: 76420:172. Sofia examined it once.
 
 ## In the book
 
-The main discussion starts in section 6.3.1, on printed page 257: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=259). The shorter catalogue entry is on printed page 354: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=356).
+- [Main discussion — section 6.3.1, p. 257](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=259)
+- [Catalogue entry — p. 354](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=356)
+- **References listed:** Snædal, Stoklund & Åhlén 1993:226 f.
 
-References Sofia lists: Snædal, Stoklund & Åhlén 1993:226 f.
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

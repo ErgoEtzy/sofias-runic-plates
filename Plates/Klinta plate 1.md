@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Klinta plate 1
 
-A copper runic plate from Klinta, Köpingsvik parish, Öland. Sofia dates it to 900s (eV), archaeological dating. In the catalogue it is type A.
+Klinta plate 1 is a copper plate found at Klinta, Köpingsvik parish, Öland. It is listed as type A. Archaeological evidence dates it to 900s (eV).
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 38
+- **Catalogue no.:** 38
 - **SRD:** Öl BN83
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1957, Klinta, Köpingsvik parish, Öland
 - **Context:** grave
 - **Object:** type A; copper; 22 mm long, 8–9 mm wide, 0.5 mm thick
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: SHM 25840:59:3. Sofia examined it 2 times.
+- **Current location:** SHM 25840:59:3
+- **Examined by Pereswetoff-Morath:** 2 times
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: SHM 25840:59:3. Sofia examined it 2 times.
 
 ## In the book
 
-The main discussion starts in section 5.1.6, on printed page 225: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=227). The shorter catalogue entry is on printed page 351: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=353).
+- [Main discussion — section 5.1.6, p. 225](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=227)
+- [Catalogue entry — p. 351](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=353)
+- **References listed:** Gustavson 2004:66 f.; Nilsson 1973 no 83
 
-References Sofia lists: Gustavson 2004:66 f.; Nilsson 1973 no 83
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

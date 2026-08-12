@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Leksand plate
 
-A bronze runic plate from Yttermo, Leksand parish, Dalarna. Sofia dates it to 1000–1100s (lV), archaeological dating. In the catalogue it is type A.
+Leksand plate is a bronze plate found at Yttermo, Leksand parish, Dalarna. It is listed as type A. Archaeological evidence dates it to 1000–1100s (lV).
 
-The inscription is interpreted in the book.
+The book includes an interpretation of the inscription.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 16
+- **Catalogue no.:** 16
 - **SRD:** D Fv1984;250
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1983, Yttermo, Leksand parish, Dalarna
 - **Context:** grave
 - **Object:** type A; bronze; 39–41 mm long, 15–17 mm wide, 0.5 mm thick
@@ -47,7 +47,8 @@ The inscription is interpreted in the book.
 
 ## Where it is now
 
-Now held at: DM: 20152:216. Sofia examined it once.
+- **Current location:** DM: 20152:216
+- **Examined by Pereswetoff-Morath:** once
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: DM: 20152:216. Sofia examined it once.
 
 ## In the book
 
-The main discussion starts in section 5.1.1, on printed page 213: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=215). The shorter catalogue entry is on printed page 353: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=355).
+- [Main discussion — section 5.1.1, p. 213](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=215)
+- [Catalogue entry — p. 353](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=355)
+- **References listed:** Agåker 2010:79 f.; Ersgård 1997:24–27, 45–47; Gustavson & Snædal Brink 1984:250 f.
 
-References Sofia lists: Agåker 2010:79 f.; Ersgård 1997:24–27, 45–47; Gustavson & Snædal Brink 1984:250 f.
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

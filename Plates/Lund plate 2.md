@@ -24,13 +24,13 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Lund plate 2
 
-A bronze runic plate from the large churchyard which belonged to an earlier stave church, in the ‘St. Clemens’ block, plot 9, Lund, Scania. Sofia dates it to 990–1000 (mV), archaeological dating. In the catalogue it is type B.
+Lund plate 2 is a bronze plate found at the large churchyard which belonged to an earlier stave church, in the ‘St. Clemens’ block, plot 9, Lund, Scania. It is listed as type B. Archaeological evidence dates it to 990–1000 (mV).
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 7
+- **Catalogue no.:** 7
 - **SRD:** DR Fv1988;238
 - **Other signature:** DK no: SkL70
 - **Found:** 1984, the large churchyard which belonged to an earlier stave church, in the ‘St. Clemens’ block, plot 9, Lund, Scania
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: Lund Museum of Cultural History: 71839: 2150. Sofia did not examine it (missing from the museum).
+- **Current location:** Lund Museum of Cultural History: 71839: 2150
+- **Examined by Pereswetoff-Morath:** no — missing from the museum
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: Lund Museum of Cultural History: 71839: 2150. Sofia did not examine
 
 ## In the book
 
-The main discussion starts in section 6.4.1, on printed page 259: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=261). The shorter catalogue entry is on printed page 355: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=357).
+- [Main discussion — section 6.4.1, p. 259](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=261)
+- [Catalogue entry — p. 355](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=357)
+- **References listed:** Snædal, Stoklund & Åhlén 1988:238 f.
 
-References Sofia lists: Snædal, Stoklund & Åhlén 1988:238 f.
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

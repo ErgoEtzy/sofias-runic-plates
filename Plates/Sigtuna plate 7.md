@@ -24,13 +24,13 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Sigtuna plate 7
 
-A copper alloy runic plate from ‘Göte’s petrol station’, Sigtuna. Sofia dates it to 1050–1150 (lV), archaeological dating. In the catalogue it is type B.
+Sigtuna plate 7 is a copper alloy plate found at ‘Göte’s petrol station’, Sigtuna. It is listed as type B. Archaeological evidence dates it to 1050–1150 (lV).
 
-The inscription is still left open in the book.
+No interpretation is given in the book.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 30
+- **Catalogue no.:** 30
 - **SRD:** no signature
 - **Other signature:** Sl 120
 - **Found:** 2014, ‘Göte’s petrol station’, Sigtuna
@@ -47,7 +47,8 @@ The inscription is still left open in the book.
 
 ## Where it is now
 
-Now held at: ARL: find no: 1/61; context no: 238; registration number: 431-23745-2011. Sofia examined it 2 times.
+- **Current location:** ARL: find no: 1/61; context no: 238; registration number: 431-23745-2011
+- **Examined by Pereswetoff-Morath:** 2 times
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: ARL: find no: 1/61; context no: 238; registration number: 431-23745
 
 ## In the book
 
-The main discussion starts in section 5.2.6, on printed page 238: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=240). The shorter catalogue entry is on printed page 359: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=361).
+- [Main discussion — section 5.2.6, p. 238](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=240)
+- [Catalogue entry — p. 359](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=361)
+- **References listed:** Gustavson (Sl 120); Gustavson & Källström 2016:19–20
 
-References Sofia lists: Gustavson (Sl 120); Gustavson & Källström 2016:19–20
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

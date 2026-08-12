@@ -24,15 +24,15 @@ tags: ["runes/runic-plate", "sofia-pereswetoff-morath"]
 
 # Gorodišče plate 1
 
-A bronze runic plate from Rjurikovo Gorodišče, Novgorod, Russia. Sofia dates it to 900s (eV), archaeological and runological dating. In the catalogue it is type A (+wire).
+Gorodišče plate 1 is a bronze plate found at Rjurikovo Gorodišče, Novgorod, Russia. It is listed as type A (+wire). Archaeological and runological evidence dates it to 900s (eV).
 
-The inscription is interpreted in the book.
+The book includes an interpretation of the inscription.
 
 ## Quick facts
 
-- **Sofia's catalogue:** no. 10
+- **Catalogue no.:** 10
 - **SRD:** RU Melnikova2001;181
-- **Other signature:** None listed
+- **Other signature:** —
 - **Found:** 1983, Rjurikovo Gorodišče, Novgorod, Russia
 - **Context:** domestic (urban environment, fortification)
 - **Object:** type A (+wire); bronze; 58 mm long, 16–21.5 mm wide, 1 mm thick
@@ -47,7 +47,8 @@ The inscription is interpreted in the book.
 
 ## Where it is now
 
-Now held at: NHM: 1650/8. Sofia examined it 2 times.
+- **Current location:** NHM: 1650/8
+- **Examined by Pereswetoff-Morath:** 2 times
 
 ## Related
 
@@ -55,8 +56,8 @@ Now held at: NHM: 1650/8. Sofia examined it 2 times.
 
 ## In the book
 
-The main discussion starts in section 7.2.1, on printed page 265: [open that page](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=267). The shorter catalogue entry is on printed page 346: [open the entry](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=348).
+- [Main discussion — section 7.2.1, p. 265](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=267)
+- [Catalogue entry — p. 346](../Sofia_Pereswetoff_Morath_Viking_Age_Runic_Plates_Readings_and_Interpretations.pdf#page=348)
+- **References listed:** Mel´nikova 1987:163–166, 1994:232–239, 2001:180–188
 
-References Sofia lists: Mel´nikova 1987:163–166, 1994:232–239, 2001:180–188
-
-Back to [the book note](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>).
+[Book note](<../Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>)

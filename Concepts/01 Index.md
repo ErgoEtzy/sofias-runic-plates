@@ -41,7 +41,7 @@ The 24 notes below cover the book's main terminology, reading method, rune forms
 - [[Spell types and formulas]]
 - [[Runes as writing and magical symbols]]
 
-## External starting points
+## External Indexes
 
 - [Swedish National Heritage Board: About Runor](https://www.raa.se/in-english/digital-services/about-runor/)
 - [Uppsala University: Scandinavian Runic-text Database](https://www.uu.se/en/department/scandinavian-languages/research/research-projects/scandinavian-runic-text-database)

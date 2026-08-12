@@ -6,7 +6,7 @@ tags: ["runes/index", "sofia-pereswetoff-morath"]
 
 # Viking-Age runic plates
 
-One note for each of the 46 plates in Pereswetoff-Morath's catalogue. The original numbering makes it easy to move between the notes and the book.
+The complete catalogue is represented here: all 46 plates, plus 24 notes covering the book's main concepts and methods. The original plate numbering makes it easy to move between the notes and the book.
 
 [About the book](<Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md>) / [[plates.csv|CSV]]
 
@@ -61,6 +61,8 @@ One note for each of the 46 plates in Pereswetoff-Morath's catalogue. The origin
 | 45 | [[Plates/Solberga plate 5|Solberga plate 5]] | Sweden | A (+wire) | copper | No |
 | 46 | [[Plates/Skänninge plate|Skänninge plate]] | Sweden | fragmentary | copper alloy (bronze?) | Yes |
 
-## Rune forms and useful terms
+## Concepts
 
-[[Concepts/Conventional runes]] / [[Concepts/Unconventional runes]] / [[Concepts/Staveless runes]] / [[Concepts/Bind-runes]] / [[Concepts/Runes with non-graphematic branches]] / [[Concepts/Coordinate runes]] / [[Concepts/Balanced runes]] / [[Concepts/Runiforms and rune-like signs]]
+[[Concepts/Index|Browse all 24 concept notes]]
+
+The concept guide covers the corpus, plate types, runological method, transliteration, reading order, dating, conventional and unconventional rune forms, cryptic systems, archaeological context, spells, and the relation between writing and magic.

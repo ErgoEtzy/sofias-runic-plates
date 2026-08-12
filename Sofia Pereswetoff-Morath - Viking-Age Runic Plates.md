@@ -15,9 +15,10 @@ tags: ["runes/source", "sofia-pereswetoff-morath"]
 
 The book covers 46 Viking-Age metal plates with runes. Some can be read fairly well; others are damaged, unusual, or still unresolved. It compares ordinary rune forms with bind-runes, staveless runes, balanced forms, and other unusual signs.
 
-The collection has one note for every plate in the catalogue. Appendix 1 marks 21 of the 46 inscriptions as interpreted.
+The collection includes all 46 plates in the catalogue and 24 notes on the book's terminology, methods, and main interpretive themes. Appendix 1 marks 21 inscriptions as interpreted.
 
-- [[Index]]
+- [[Index|Plate index]]
+- [[Concepts/Index|Concept index]]
 - [[Concepts/Runic plates]]
 - [[Concepts/Reading and interpretation]]
 - [[Concepts/Magic and function]]

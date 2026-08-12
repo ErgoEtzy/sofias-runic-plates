@@ -7,9 +7,15 @@ Start with [Index](<Index.md>).
 ## What is here
 
 - one Markdown note per plate;
-- short notes on rune forms and terminology;
+- 24 notes covering the book's main concepts, rune forms, and methods;
 - a CSV export of the structured fields; and
 - page references back to the book.
+
+## Coverage
+
+- **Plates:** 46 of 46 entries from Appendix 1
+- **Concepts:** 24 notes covering the named terminology and major interpretive themes used throughout the book
+- **External context:** Wikipedia introductions plus resources from Uppsala University, the Swedish National Heritage Board, and the Swedish History Museum
 
 ## Source book
 
